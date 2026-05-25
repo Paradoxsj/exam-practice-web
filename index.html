@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>题库刷题</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="paper-panel" aria-label="试卷列表">
+        <div class="brand-row">
+          <div>
+            <h1>题库刷题</h1>
+            <p id="loadStatus">正在加载试卷...</p>
+          </div>
+          <button class="icon-button mobile-toggle" id="togglePapers" type="button" aria-label="展开试卷列表">☰</button>
+        </div>
+        <div class="paper-list" id="paperList"></div>
+      </aside>
+
+      <main class="practice-panel">
+        <section class="toolbar" aria-label="刷题控制">
+          <div class="search-box">
+            <label for="searchInput">搜索题干</label>
+            <input id="searchInput" type="search" placeholder="输入关键词" autocomplete="off" />
+          </div>
+          <div class="mode-controls" aria-label="练习模式">
+            <span>模式</span>
+            <button type="button" id="sequenceModeBtn" data-mode="sequence" class="active">顺序练习</button>
+            <button type="button" id="randomModeBtn" data-mode="random">随机练习</button>
+            <button type="button" id="examModeBtn" data-mode="exam">模拟考试</button>
+            <button type="button" id="reshuffleBtn" class="hidden">重新随机</button>
+          </div>
+          <div class="filter-tabs" id="filterTabs" aria-label="筛选题目">
+            <button type="button" data-filter="all" class="active">全部题目</button>
+            <button type="button" data-filter="unanswered">未做题</button>
+            <button type="button" data-filter="wrongAll">全部错题</button>
+            <button type="button" data-filter="wrong">未订正错题</button>
+            <button type="button" data-filter="corrected">已订正错题</button>
+            <button type="button" data-filter="mastered">已掌握主观题</button>
+            <button type="button" data-filter="unmastered">未掌握主观题</button>
+          </div>
+        </section>
+
+        <section class="stats-grid" id="statsGrid" aria-label="当前统计"></section>
+
+        <section class="question-layout">
+          <nav class="number-nav" aria-label="题号导航">
+            <div class="number-nav-header">
+              <span>题号</span>
+              <button id="clearWrongBtn" type="button">清空错题本</button>
+            </div>
+            <div id="numberNav" class="number-grid"></div>
+          </nav>
+
+          <article class="question-panel">
+            <div class="question-topline">
+              <div>
+                <span id="questionProgress">请选择试卷</span>
+                <span id="questionType" class="type-pill"></span>
+              </div>
+              <span id="saveHint" class="save-hint">记录自动保存</span>
+            </div>
+
+            <h2 id="questionStem" class="question-stem">从左侧选择一份试卷开始刷题。</h2>
+            <div id="optionsArea" class="options-area"></div>
+            <div id="answerArea" class="answer-area"></div>
+
+            <div class="action-row">
+              <button id="prevBtn" type="button">上一题</button>
+              <button id="submitBtn" type="button" class="primary">提交</button>
+              <button id="examSubmitBtn" type="button" class="danger-button hidden">交卷</button>
+              <button id="nextBtn" type="button">下一题</button>
+            </div>
+          </article>
+        </section>
+      </main>
+    </div>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1982 @@
+[
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-1",
+    "number": 1,
+    "type": "single_choice",
+    "stem": "一座办公大楼内各个办公室中的微机进行联网,这个网络属于( )。",
+    "options": {
+      "A": "WAN",
+      "B": "LAN",
+      "C": "MAN",
+      "D": "GAN"
+    },
+    "answer": "B",
+    "explanation": "1.【答案】B。解析:办公楼内距离较近,采用局域网(LAN)。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 1
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-2",
+    "number": 2,
+    "type": "single_choice",
+    "stem": "1 字节表示( )位。",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "8",
+      "D": "10"
+    },
+    "answer": "C",
+    "explanation": "2.【答案】C。解析:1 字节表示8 位二进制。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-3",
+    "number": 3,
+    "type": "single_choice",
+    "stem": "在Word 中,查找替换操作时,使用通配符*,表示可以匹配( )。",
+    "options": {
+      "A": "一个字符",
+      "B": "多个字符",
+      "C": "一个都不匹配",
+      "D": "一个汉字"
+    },
+    "answer": "B",
+    "explanation": "3.【答案】B。解析:查找替换可以使用两个通配符:*和?。操作时*代表任意多个 字符,?代表任意一个字符。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 3
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-4",
+    "number": 4,
+    "type": "single_choice",
+    "stem": "在计算机内,多媒体数据最终是以( )形式存在的。",
+    "options": {
+      "A": "二进制代码",
+      "B": "特殊的压缩码",
+      "C": "模拟数据",
+      "D": "图形"
+    },
+    "answer": "A",
+    "explanation": "4.【答案】A。解析:在计算机内,多媒体数据最终是以二进制代码形式存在的。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-5",
+    "number": 5,
+    "type": "single_choice",
+    "stem": "在Excel 中,将下列概念按由大到小的次序排列,正确的次序是( )。",
+    "options": {
+      "A": "工作表、单元格、工作薄",
+      "B": "工作表、工作薄、单元格",
+      "C": "工作薄、单元格、工作表",
+      "D": "工作薄、工作表、单元格"
+    },
+    "answer": "D",
+    "explanation": "5.【答案】D。解析:Excel 中最大的单位是工作簿,其次是工作表,最小的是单元 格。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 5
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-6",
+    "number": 6,
+    "type": "single_choice",
+    "stem": "利用计算机来模拟人类的某些思维活动,如医疗诊断、定理证明等,这一应用属 于( )。",
+    "options": {
+      "A": "数值计算",
+      "B": "自动控制",
+      "C": "人工智能",
+      "D": "辅助教育"
+    },
+    "answer": "C",
+    "explanation": "6.【答案】C。解析:人工智能就是让机器模拟人的思维方式,帮助人类完成相应 的任务和活动。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-7",
+    "number": 7,
+    "type": "single_choice",
+    "stem": "计算机病毒具有破坏性、( )、潜伏性和传染性等特点。",
+    "options": {
+      "A": "必然性",
+      "B": "再生性",
+      "C": "隐蔽性",
+      "D": "易读性"
+    },
+    "answer": "C",
+    "explanation": "7.【答案】C。解析:计算机病毒具有寄生性、传染性、潜伏性、隐蔽性。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 7
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-8",
+    "number": 8,
+    "type": "single_choice",
+    "stem": "当前活动窗口是文档d1.docx 下的窗口,单击该窗口的“最小化”按钮后( )。",
+    "options": {
+      "A": "不显示d1.docx 文档的内容,但d1.docx 文档并未关闭",
+      "B": "该窗口和d1.docx 文档都被关闭",
+      "C": "d1.docx 文档未关闭,且继续显示其内容",
+      "D": "关闭了d1.docx 文档但该窗口并未关闭"
+    },
+    "answer": "A",
+    "explanation": "8.【答案】A。解析:“最小化”按钮的功能是:不显示文档的内容,但文档并未 关闭,在后台运行。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-9",
+    "number": 9,
+    "type": "single_choice",
+    "stem": "在文档某字符上连续三次按鼠标左键,会选中( )文本。",
+    "options": {
+      "A": "字符所在的单词",
+      "B": "字符所在的句子",
+      "C": "字符所在的段落",
+      "D": "整篇文档"
+    },
+    "answer": "C",
+    "explanation": "9.【答案】C。解析:在文档某字符上连续三次按鼠标左键,会选中字符所在的段 落文本。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 9
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-10",
+    "number": 10,
+    "type": "single_choice",
+    "stem": "在Windows 7 的“资源管理器”窗口中,如果想一次选定多个分散的文件或文 件夹,正确的操作是( )。",
+    "options": {
+      "A": "按住Ctrl 键,用鼠标右键逐个选取",
+      "B": "按住Ctrl 键,用鼠标左键逐个选取",
+      "C": "按住Shift 键,用鼠标右键逐个选取",
+      "D": "按住Shift 键,用鼠标左键逐个选取"
+    },
+    "answer": "B",
+    "explanation": "10.【答案】B。解析:按住Ctrl 键并用鼠标左键逐个选取多个文件或文件夹可选定 多个分散的文件或文件夹。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-11",
+    "number": 11,
+    "type": "single_choice",
+    "stem": "下列快捷键不会用到剪贴板的是( )。",
+    "options": {
+      "A": "Ctrl+V",
+      "B": "Ctrl+X",
+      "C": "Ctrl+",
+      "D": "Ctrl+A"
+    },
+    "answer": "D",
+    "explanation": "11.【答案】D。解析:Ctrl+A 是全选的快捷键,不会用到剪贴板。Ctrl+X 是剪切, Ctrl+V 是粘贴,Ctrl+C 是复制。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 11
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-12",
+    "number": 12,
+    "type": "single_choice",
+    "stem": "反映计算机性能的最核心部件是( )。",
+    "options": {
+      "A": "主存储器",
+      "B": "硬盘",
+      "C": "I/O",
+      "D": "CPU"
+    },
+    "answer": "D",
+    "explanation": "12.【答案】D。解析:CPU 是计算机的运算中心和控制中心,是计算机的核心部 件。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-13",
+    "number": 13,
+    "type": "single_choice",
+    "stem": "计算机CPU 的字长是指( )。",
+    "options": {
+      "A": "CPU 一次性处理十进制的位数",
+      "B": "CPU 能够处理的二进制的最多位数",
+      "C": "CPU 能够处理的十进制的最多位数",
+      "D": "CPU 一次性处理二进制的位数"
+    },
+    "answer": "D",
+    "explanation": "13.【答案】D。解析:CPU 的字长是指CPU 一次能处理的二进制位数。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 13
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-14",
+    "number": 14,
+    "type": "single_choice",
+    "stem": "下列访问速度最快的存储器是( )。",
+    "options": {
+      "A": "RAM",
+      "B": "Cache",
+      "C": "光盘",
+      "D": "硬盘"
+    },
+    "answer": "B",
+    "explanation": "14.【答案】B。解析:访问速度最快的存储器是Cache,其次是RAM。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 14
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-15",
+    "number": 15,
+    "type": "single_choice",
+    "stem": "一般情况下,外存储器中存储的信息,在断电后( )。",
+    "options": {
+      "A": "局部丢失",
+      "B": "大部分丢失",
+      "C": "全部丢失",
+      "D": "不会丢失"
+    },
+    "answer": "D",
+    "explanation": "15.【答案】D。解析:一般情况下,外存储器中存储的信息,在断电后不会丢失。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 15
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-16",
+    "number": 16,
+    "type": "single_choice",
+    "stem": "Windows7 中任务栏上显示( )。",
+    "options": {
+      "A": "系统中保存的所有程序",
+      "B": "系统正在运行的所有程序",
+      "C": "系统前台运行的程序",
+      "D": "系统后台运行的程序"
+    },
+    "answer": "B",
+    "explanation": "16.【答案】B。解析:Windows7 中任务栏上显示系统正在运行的所有程序。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 16
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-17",
+    "number": 17,
+    "type": "single_choice",
+    "stem": "下列软件中,属于系统软件的是( )。",
+    "options": {
+      "A": "航天信息系统",
+      "B": "Office",
+      "C": "Windows10",
+      "D": "决策支持系统"
+    },
+    "answer": "C",
+    "explanation": "17.【答案】C。解析:Windows10 属于操作系统,所以是系统软件。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 17
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-18",
+    "number": 18,
+    "type": "single_choice",
+    "stem": "将高级程序设计语言源程序翻译成计算机可执行代码的软件称为( )。",
+    "options": {
+      "A": "汇编程序",
+      "B": "编译程序",
+      "C": "管理程序",
+      "D": "服务程序"
+    },
+    "answer": "B",
+    "explanation": "18.【答案】B。解析:将高级程序设计语言源程序翻译成计算机可执行代码的软件 称为编译程序。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-19",
+    "number": 19,
+    "type": "single_choice",
+    "stem": "计算机能够直接识别和执行的语言是( )。",
+    "options": {
+      "A": "机器语言",
+      "B": "汇编语言",
+      "C": "高级语言",
+      "D": "数据库语言"
+    },
+    "answer": "A",
+    "explanation": "19.【答案】A。解析:机器语言是计算机能够直接识别和执行的语言。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 19
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-20",
+    "number": 20,
+    "type": "single_choice",
+    "stem": "以下除( )外,其它都是图像文件格式。",
+    "options": {
+      "A": "MOV",
+      "B": "GIF",
+      "C": "BMP",
+      "D": "JPG"
+    },
+    "answer": "A",
+    "explanation": "20.【答案】A。解析:MOV 属于视频文件格式。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-21",
+    "number": 21,
+    "type": "single_choice",
+    "stem": "通过收音机收听广播电台节目的通信方式是( )。",
+    "options": {
+      "A": "全双工",
+      "B": "半双工",
+      "C": "单工",
+      "D": "自动"
+    },
+    "answer": "C",
+    "explanation": "21.【答案】C。解析:单工通信是指信息只能沿一个方向进行,收音机收听广播电 台节目属于单工通信。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 21
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-22",
+    "number": 22,
+    "type": "single_choice",
+    "stem": "计算机网络的传输介质中性能最好、应用最广泛的一种是( )。",
+    "options": {
+      "A": "无线电波",
+      "B": "光纤",
+      "C": "同轴电缆",
+      "D": "双绞线"
+    },
+    "answer": "B",
+    "explanation": "22.【答案】B。解析:光纤特点是速度快,传输距离远,抗干扰能力强等,在平时 使用的过程中有很多的应用。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-23",
+    "number": 23,
+    "type": "single_choice",
+    "stem": "关于Windows 快捷方式的说法正确的是( )。",
+    "options": {
+      "A": "一个快捷方式可指向多个目标对象",
+      "B": "一个对象可有多个快捷方式",
+      "C": "只有文件和文件夹对象可建立快捷方式",
+      "D": "不允许为快捷方式建立快捷方式"
+    },
+    "answer": "B",
+    "explanation": "23.【答案】B。解析:快捷方式是文件或程序的快速连接,一个快捷方式只能指向 一个目标对象。一个文件可以建立多个快捷方式,可以为快捷方式建立快捷方式。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 23
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-24",
+    "number": 24,
+    "type": "single_choice",
+    "stem": "使用( )快捷键可以剪切被选中的文本。",
+    "options": {
+      "A": "Shift+P",
+      "B": "Shift+W",
+      "C": "Ctrl+X",
+      "D": "Ctrl+W"
+    },
+    "answer": "C",
+    "explanation": "24.【答案】C。解析:“Ctrl+X”组合键的功能是剪切;“Ctrl+W”组合键的功能 是关闭当前窗口。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-25",
+    "number": 25,
+    "type": "single_choice",
+    "stem": "电子邮件地址的一般格式为( )。",
+    "options": {
+      "A": "IP 地址@域名",
+      "B": "用户名@域名",
+      "C": "域名@IP 地址",
+      "D": "域名@用户名"
+    },
+    "answer": "B",
+    "explanation": "25.【答案】B。解析:电子邮件的格式是用户名@域名。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 25
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-26",
+    "number": 26,
+    "type": "single_choice",
+    "stem": "计算机病毒是指( )。",
+    "options": {
+      "A": "编制有错误的计算机程序",
+      "B": "设计不完善的计算机程序",
+      "C": "计算机的程序已被破坏",
+      "D": "以危害系统为目的的特殊的计算机程序"
+    },
+    "answer": "D",
+    "explanation": "26.【答案】D。解析:计算机病毒是编制者插入到计算机中破坏计算机或者毁坏数 据,影响计算机使用,并且能够自我复制的一组计算机指令或程序。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-27",
+    "number": 27,
+    "type": "single_choice",
+    "stem": "当前窗口处于最大化状态,双击该窗口标题栏,则相当于单击( )。",
+    "options": {
+      "A": "最小化",
+      "B": "关闭按钮",
+      "C": "还原按钮",
+      "D": "系统控制按钮"
+    },
+    "answer": "C",
+    "explanation": "27.【答案】C。解析:当前窗口处于最大化状态时双击该窗口标题栏,该窗口会还 原,相当于还原按钮。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 27
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-28",
+    "number": 28,
+    "type": "single_choice",
+    "stem": "在Windows7 环境中,对安装的汉字输入法进行切换的键盘操作是( )。",
+    "options": {
+      "A": "Ctrl+空格键",
+      "B": "Ctrl+Shift",
+      "C": "Shift+空格键",
+      "D": "Ctrl+圆点"
+    },
+    "answer": "B",
+    "explanation": "28.【答案】B。解析:切换输入法的快捷键是Ctrl+Shift。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-29",
+    "number": 29,
+    "type": "single_choice",
+    "stem": "在“记事本”或“写字板”窗口中,对当前编辑的文档进行存储,可以用( ) 快捷键。",
+    "options": {
+      "A": "Alt+F",
+      "B": "Alt+S",
+      "C": "Ctrl+S",
+      "D": "Ctrl+F"
+    },
+    "answer": "C",
+    "explanation": "29.【答案】C。解析:在“记事本”或“写字板”窗口中,对当前编辑的文档进行 存储的方式有很多种,可以直接点击“文件”后点击“保存”选项或按快捷键“Ctrl+S” 实现对文件的保存。Ctrl+F 快捷键表示查找功能,Alt+F 可以打开记事本当中的“文件” 选项卡。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 29
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-30",
+    "number": 30,
+    "type": "single_choice",
+    "stem": "用浏览器浏览因特网信息时,默认的协议是( )。",
+    "options": {
+      "A": "ftp",
+      "B": "http",
+      "C": "news",
+      "D": "TCP/IP"
+    },
+    "answer": "B",
+    "explanation": "30.【答案】B。解析:浏览器使用的默认协议是http 超文本传输协议。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-31",
+    "number": 31,
+    "type": "single_choice",
+    "stem": "在Windows 中,“任务栏”( )。",
+    "options": {
+      "A": "只能改变位置不能改变大小",
+      "B": "只能改变大小不能改变位置",
+      "C": "既不能改变位置也不能改变大小",
+      "D": "既能改变位置也能改变大小"
+    },
+    "answer": "D",
+    "explanation": "31.【答案】D。解析:任务栏大小可以调整,位置可以是在窗口的四个边上。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 31
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-32",
+    "number": 32,
+    "type": "single_choice",
+    "stem": "使用键盘上的( )可以打开开始菜单。",
+    "options": {
+      "A": "Alt+Space",
+      "B": "Ctrl+Space",
+      "C": "Ctrl+Esc",
+      "D": "Alt+Esc"
+    },
+    "answer": "C",
+    "explanation": "32.【答案】C。解析:利用Ctrl+Esc 快捷键可以打开开始菜单。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-33",
+    "number": 33,
+    "type": "single_choice",
+    "stem": "要使Excel 把所输入的数字当成文本处理,所输入的数字应当以( )开头。",
+    "options": {
+      "A": "双引号",
+      "B": "一个字母",
+      "C": "等号",
+      "D": "单引号"
+    },
+    "answer": "D",
+    "explanation": "33.【答案】D。解析:将数值型数据变为文本型数据可以在输入的数字前加单引号。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 33
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-34",
+    "number": 34,
+    "type": "single_choice",
+    "stem": "在Windows7 中,在同一文件夹下文件名MM.txt 和mm.txt( )。",
+    "options": {
+      "A": "是同一个文件",
+      "B": "文件相同但内容不同",
+      "C": "不确定",
+      "D": "是两个文件"
+    },
+    "answer": "A",
+    "explanation": "34.【答案】A。解析:Windows7 系统文件名不区分大小写,MM.txt 和mm.txt 是 同一个文件。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-35",
+    "number": 35,
+    "type": "single_choice",
+    "stem": "下面是关于Windows 7 文件名的叙述,错误的是( )。",
+    "options": {
+      "A": "文件名中允许使用汉字",
+      "B": "文件名中允许使用多个圆点分隔符",
+      "C": "文件名中允许使用空格",
+      "D": "文件名中允许使用西文字符“|”"
+    },
+    "answer": "D",
+    "explanation": "35.【答案】D。解析:Windows7 文件名规则:允许文件或者文件夹名称不得超过",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 35
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-36",
+    "number": 36,
+    "type": "single_choice",
+    "stem": "Word 菜单中常会出现一些暗灰色的选项,这表示( )。",
+    "options": {
+      "A": "系统运行故障",
+      "B": "Word 本身缺陷",
+      "C": "文档带病毒",
+      "D": "这些项在当前无效"
+    },
+    "answer": "D",
+    "explanation": "36.【答案】D。解析:在Word2010 菜单中,暗灰色的选项表示这些项在当前无效, 也就是无法进行编辑。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-37",
+    "number": 37,
+    "type": "single_choice",
+    "stem": "根据域名代码规定,域名为katong.com.cn 表示的网站类别应是( )。",
+    "options": {
+      "A": "教育机构",
+      "B": "军事部门",
+      "C": "商业组织",
+      "D": "国际组织"
+    },
+    "answer": "C",
+    "explanation": "37.【答案】C。解析:com 表示盈利性商业组织,cn 表示中国。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 37
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-38",
+    "number": 38,
+    "type": "single_choice",
+    "stem": "在Windows 操作系统中,Ctrl+",
+    "options": {
+      "A": "复制",
+      "B": "粘贴",
+      "C": "是( )命令的快捷键。 剪切",
+      "D": "打印"
+    },
+    "answer": "A",
+    "explanation": "38.【答案】A。解析:Ctrl+C 是复制;Ctrl+V 是粘贴;Ctrl+X 是剪切;Ctrl+P 是 打印。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-39",
+    "number": 39,
+    "type": "single_choice",
+    "stem": "在Word 中,删除行、列或表格的快捷键是( )。",
+    "options": {
+      "A": "Backspace",
+      "B": "Delete",
+      "C": "空格键",
+      "D": "回车键"
+    },
+    "answer": "A",
+    "explanation": "39.【答案】A。解析:删除行、列或表格的快捷键是按Backspace。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 39
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-40",
+    "number": 40,
+    "type": "single_choice",
+    "stem": "发现计算机病毒后,比较彻底的清除方式是( )。",
+    "options": {
+      "A": "用查毒软件处理",
+      "B": "删除磁盘文件",
+      "C": "用杀毒软件处理",
+      "D": "格式化磁盘"
+    },
+    "answer": "D",
+    "explanation": "40.【答案】D。解析:格式化磁盘是比较彻底的清除病毒的方式。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-41",
+    "number": 41,
+    "type": "single_choice",
+    "stem": "在Windows7 环境中,下列文件扩展名中,属于一种文档的是( )。",
+    "options": {
+      "A": ".EXE",
+      "B": ".COM",
+      "C": ".TXT",
+      "D": ".SYS"
+    },
+    "answer": "C",
+    "explanation": "41.【答案】C。解析:.EXE 是可执行文件;.COM 是域名;.TXT 是文本文件;.SYS 是驱动程序的可执行代码,是系统文件。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 41
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-42",
+    "number": 42,
+    "type": "single_choice",
+    "stem": "将插入点定位于句子飞流直下三千尺中的直与下之间,按一下Del 键,则该句 子( )。",
+    "options": {
+      "A": "变为飞流下三千尺",
+      "B": "变为飞流直三千尺",
+      "C": "整句被删除",
+      "D": "不变"
+    },
+    "answer": "B",
+    "explanation": "42.【答案】B。解析:Del 键是Delete 的缩写,删除的意思,删除光标后面的字符, 所以删除“下”字,变为:飞流直三千尺。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 42
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-43",
+    "number": 43,
+    "type": "single_choice",
+    "stem": "下面四个不同进制的数,最大的一个数是( )。",
+    "options": {
+      "A": "(1011001)2",
+      "B": "(26)8",
+      "C": "(180)10",
+      "D": "(B3)16"
+    },
+    "answer": "C",
+    "explanation": "43.【答案】C。解析:比较不同进制数之间的大小时,通常将其转换为同一进制数 再进行大小比较。将四个选项的不同数制转换为十进制数: (1011001)2=(1×26+1×24+1×23+1×20)10=(89)10, (26)8=(2×81+6×80)10=(22)10, (B3)16=(11×161+3×160)10=(179)10,故最大的数是(180)10。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 43
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-44",
+    "number": 44,
+    "type": "single_choice",
+    "stem": "在Windows7 操作系统中( )。",
+    "options": {
+      "A": "同一时刻可以有多个活动窗口",
+      "B": "同一时刻可以有多个应用程序在运行,但只有一个活动窗口",
+      "C": "同一时刻只能有一个打开的窗口",
+      "D": "DOS 应用程序窗口与Windows7 应用程序窗口不能同时打开着"
+    },
+    "answer": "B",
+    "explanation": "44.【答案】B。解析:Windows7 系统同一时刻可以有多个应用程序在运行,但只 有一个活动窗口。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-45",
+    "number": 45,
+    "type": "single_choice",
+    "stem": "使用( )键,可以将光标快速移至文档尾部。",
+    "options": {
+      "A": "Ctrl+Shift+",
+      "B": "Shift+Home",
+      "C": "Ctrl+",
+      "D": "Ctrl+End"
+    },
+    "answer": "D",
+    "explanation": "45.【答案】D。解析:按“Ctrl+End”组合键可以将光标快速移至文档尾部;“Ctrl+A” 是全选功能;“Shift+Home”是选择内容到从光标处到行首。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 45
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-46",
+    "number": 46,
+    "type": "single_choice",
+    "stem": "在Excel 中要将光标直接定位到A1,可以按( )。",
+    "options": {
+      "A": "Ctrl+Home",
+      "B": "Home",
+      "C": "Shift+Home",
+      "D": "PgUp"
+    },
+    "answer": "A",
+    "explanation": "46.【答案】A。解析:按下Ctrl+Home 键可以将光标直接定位到A1。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-47",
+    "number": 47,
+    "type": "single_choice",
+    "stem": "在Excel 中,插入的行默认是在选中行的( )。",
+    "options": {
+      "A": "下方",
+      "B": "左侧",
+      "C": "右侧",
+      "D": "上方"
+    },
+    "answer": "D",
+    "explanation": "47.【答案】D。解析:新插入的行默认是在选中行的上方。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 47
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-48",
+    "number": 48,
+    "type": "single_choice",
+    "stem": "Excel 中,已在某工作表的A1、A2 单元格中分别填入了3 和6,再将这两个单 元格选定,拖动A2 单元格右下角的填充柄,请问在A3、A4、A5、A6......单元格会自 动填入的数据是( )。",
+    "options": {
+      "A": "9、12、15......",
+      "B": "6、6、6......",
+      "C": "3、6、3、6......",
+      "D": "7、8、9......"
+    },
+    "answer": "A",
+    "explanation": "48.【答案】A。解析:使用填充柄自动填充默认以等差数列自动填充,则A3-A6 的单元格填入9、12、15、18。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-49",
+    "number": 49,
+    "type": "single_choice",
+    "stem": "Word 中选定矩形文字,应按住( )键拖动鼠标。",
+    "options": {
+      "A": "Alt",
+      "B": "Shift",
+      "C": "Ctrl",
+      "D": "Enter"
+    },
+    "answer": "A",
+    "explanation": "49.【答案】A。解析:在word2010 中按住Alt 拖动鼠标可以选中矩形区域。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 49
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-50",
+    "number": 50,
+    "type": "single_choice",
+    "stem": "计算机系统由( )组成。",
+    "options": {
+      "A": "主机和系统软件",
+      "B": "硬件系统和应用软件",
+      "C": "硬件系统和软件系统",
+      "D": "微处理器和软件系统"
+    },
+    "answer": "C",
+    "explanation": "50.【答案】C。解析:计算机系统由硬件系统和软件系统组成。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-51",
+    "number": 51,
+    "type": "single_choice",
+    "stem": "Windows 开始菜单中某项右边的三角符号表示( )。",
+    "options": {
+      "A": "选择此项将出现对话框",
+      "B": "不能使用此项",
+      "C": "选择此项将出现其子菜单",
+      "D": "此项正在起作用"
+    },
+    "answer": "C",
+    "explanation": "51.【答案】C。解析:选项右边的三角符号表示选择此项将出现其子菜单。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 51
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-52",
+    "number": 52,
+    "type": "single_choice",
+    "stem": "在Windows7 环境中,关于“回收站”叙述正确的是( )。",
+    "options": {
+      "A": "暂存被删除的对象",
+      "B": "回收站的内容不可以恢复",
+      "C": "清空回收站后仍可用命令方式恢复",
+      "D": "回收站的内容不占用硬盘空间"
+    },
+    "answer": "A",
+    "explanation": "52.【答案】A。解析:回收站是微软Windows 操作系统里的其中一个系统文件夹, 主要用来存放用户临时删除的文档资料,存放在回收站的文件可以恢复。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-53",
+    "number": 53,
+    "type": "single_choice",
+    "stem": "根据数制的基本概念,下列各进制的整数中,值最小的一个是( )。",
+    "options": {
+      "A": "十进制数10",
+      "B": "八进制数10",
+      "C": "十六进制数10",
+      "D": "二进制数10"
+    },
+    "answer": "D",
+    "explanation": "53.【答案】D。解析:ABCD 选项都换算成十进制数值分别为10、8、16、2,因 此D 选项最小。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 53
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-54",
+    "number": 54,
+    "type": "single_choice",
+    "stem": "下列四条叙述中,属RAM 特点的是( )。",
+    "options": {
+      "A": "可随机读写数据,且断电后数据不会丢失",
+      "B": "可随机读写数据,断电后数据将全部丢失",
+      "C": "只能顺序读写数据,断电后数据将部分丢失",
+      "D": "只能顺序读写数据,且断电后数据将全部丢失"
+    },
+    "answer": "B",
+    "explanation": "54.【答案】B。解析:RAM 特点一是可以随机读写数据,二是断电后丢失信息即 易失性。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-55",
+    "number": 55,
+    "type": "single_choice",
+    "stem": "固定在计算机主机箱体上,连接计算机各种部件,起桥梁作用的是( )。",
+    "options": {
+      "A": "CPU",
+      "B": "主板",
+      "C": "外存",
+      "D": "内存"
+    },
+    "answer": "B",
+    "explanation": "55.【答案】B。解析:CPU 是一台计算机的运算和控制的核心。主板将计算机各 种部件联结在一起,起桥梁的作用。外存和内存是用来进行数据存储的。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 55
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-56",
+    "number": 56,
+    "type": "single_choice",
+    "stem": "在Excel 中,输入当前时间可按组合键( )。",
+    "options": {
+      "A": "Ctrl+;",
+      "B": "Shift+;",
+      "C": "Ctrl+Shift+;",
+      "D": "Ctrl+Shift+\""
+    },
+    "answer": "C",
+    "explanation": "56.【答案】C。解析:按下Ctrl+Shift+;即可输入当前时间,Ctrl+;为输入当前日期。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-57",
+    "number": 57,
+    "type": "single_choice",
+    "stem": "在计算机中,条码阅读器属于( )。",
+    "options": {
+      "A": "输入设备",
+      "B": "存储设备",
+      "C": "输出设备",
+      "D": "计算设备"
+    },
+    "answer": "A",
+    "explanation": "57.【答案】A。解析:条码阅读器属于输入设备,能将条码中的信息输入到计算机 内部。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 57
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-58",
+    "number": 58,
+    "type": "single_choice",
+    "stem": "未来计算机的发展趋势是( )。",
+    "options": {
+      "A": "巨型化、微型化、网络化、智能化、多媒体化",
+      "B": "巨型化、大型化、中型化、小型化、微型化",
+      "C": "巨型化、微型化、网络化、自动化、多功能化",
+      "D": "巨型化、大型化、网络化、智能化、自动化"
+    },
+    "answer": "A",
+    "explanation": "58.【答案】A。解析:未来计算机的发展趋势是巨型化、微型化、网络化、智能化、 多媒体化。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-59",
+    "number": 59,
+    "type": "single_choice",
+    "stem": "一个汉字和一个英文字符在微型机中存储时所占字节数的比值为( )。",
+    "options": {
+      "A": "4:1",
+      "B": "2:1",
+      "C": "1:1",
+      "D": "1:4"
+    },
+    "answer": "B",
+    "explanation": "59.【答案】B。解析:一个汉字占2 个字节,一个英文字符占1 个字节,所以在微 型机中存储时所占字节数的比值为2:1。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 59
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-60",
+    "number": 60,
+    "type": "single_choice",
+    "stem": "微型计算机配置高速缓冲存储器是为了解决( )。",
+    "options": {
+      "A": "主机与外设之间速度不匹配问题",
+      "B": "CPU 与辅助存储器之间速度不匹配问题",
+      "C": "内存储器与辅助存储器之间速度不匹配问题",
+      "D": "CPU 与内存储器之间速度不匹配问题"
+    },
+    "answer": "D",
+    "explanation": "60.【答案】D。解析:高速缓冲存储器Cache 用来缓解CPU 与内存储器之间速度 不匹配的问题。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-61",
+    "number": 61,
+    "type": "single_choice",
+    "stem": "计算机所具有的存储程序原理是谁提出来的( )。",
+    "options": {
+      "A": "图灵",
+      "B": "布尔",
+      "C": "冯·诺依曼",
+      "D": "爱因斯坦"
+    },
+    "answer": "C",
+    "explanation": "61.【答案】C。解析:计算机所具有的存储程序原理是冯·诺依曼提出来的。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 61
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-62",
+    "number": 62,
+    "type": "single_choice",
+    "stem": "一台完整的计算机硬件由运算器、( )、存储器、输入设备、输出设备等部 件构成。",
+    "options": {
+      "A": "显示器",
+      "B": "键盘",
+      "C": "控制器",
+      "D": "磁盘"
+    },
+    "answer": "C",
+    "explanation": "62.【答案】C。解析:一个完整的电子计算机系统由硬件和软件两大部分构成。计 算机硬件包括输入设备、输出设备、存储器、运算器、控制器五大部分。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 62
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-63",
+    "number": 63,
+    "type": "single_choice",
+    "stem": "在Excel 中,( )函数可以实现数据的平均值计算。",
+    "options": {
+      "A": "SUM",
+      "B": "INT",
+      "C": "AVERAGE",
+      "D": "SQRT"
+    },
+    "answer": "C",
+    "explanation": "63.【答案】C。解析:AVERAGE 函数可以实现数据的平均值计算。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 63
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-64",
+    "number": 64,
+    "type": "single_choice",
+    "stem": "演示文稿中,超级链接中所链接的目标可以是( )。",
+    "options": {
+      "A": "计算机硬盘中的可执行文件",
+      "B": "其他幻灯片文件",
+      "C": "同演示文稿的某张幻灯片",
+      "D": "以上都可以"
+    },
+    "answer": "D",
+    "explanation": "64.【答案】D。解析:超级链接中所链接的目标可以是计算机硬盘中的可执行文件、 网页、其他幻灯片文件、同演示文稿的某张幻灯片、电子邮件等。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-65",
+    "number": 65,
+    "type": "single_choice",
+    "stem": "Excel 中的文字连接符号为( )。",
+    "options": {
+      "A": "$",
+      "B": "&",
+      "C": "%",
+      "D": "@"
+    },
+    "answer": "B",
+    "explanation": "65.【答案】B。解析:文本连接符为&,用来连接多个区域的文字。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 65
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-66",
+    "number": 66,
+    "type": "single_choice",
+    "stem": "在PowerPoint 中,停止幻灯片播放的快捷键是( )。",
+    "options": {
+      "A": "Enter",
+      "B": "Shift",
+      "C": "Esc",
+      "D": "Ctrl"
+    },
+    "answer": "C",
+    "explanation": "66.【答案】C。解析:按Esc 键可以停止幻灯片放映。另一种方法是:放映时单击 鼠标右键,在弹出的菜单中选择选择“结束放映”命令。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-67",
+    "number": 67,
+    "type": "single_choice",
+    "stem": "计算机应用最广泛的领域是( )。",
+    "options": {
+      "A": "科学计算",
+      "B": "数据处理",
+      "C": "过程控制",
+      "D": "人工智能"
+    },
+    "answer": "B",
+    "explanation": "67.【答案】B。解析:据统计,80%以上的计算机主要用于数据处理,因此数据处 理是计算机应用最广泛的领域。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 67
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-68",
+    "number": 68,
+    "type": "single_choice",
+    "stem": "在Excel 中,输入的文字默认的对齐方式是( )。",
+    "options": {
+      "A": "左对齐",
+      "B": "右对齐",
+      "C": "居中对齐",
+      "D": "两端对齐"
+    },
+    "answer": "A",
+    "explanation": "68.【答案】A。解析:输入文字为文本型数据,默认左对齐。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-69",
+    "number": 69,
+    "type": "single_choice",
+    "stem": "在Word 中,查找的快捷键是( )。",
+    "options": {
+      "A": "Ctrl+H",
+      "B": "Ctrl+F",
+      "C": "Ctrl+G",
+      "D": "Ctrl+A"
+    },
+    "answer": "B",
+    "explanation": "69.【答案】B。解析:查找的快捷键是Ctrl+F;替换的快捷键是:Ctrl+H;定位的 快捷键是:Ctrl+G;全选的快捷键是:Ctrl+A。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 69
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-70",
+    "number": 70,
+    "type": "single_choice",
+    "stem": "微型计算机中,运算器、控制器和内存储器的总称是( )。",
+    "options": {
+      "A": "主机",
+      "B": "MPU",
+      "C": "CPU",
+      "D": "ALU"
+    },
+    "answer": "A",
+    "explanation": "70.【答案】A。解析:运算器和控制器组成了CPU,CPU 和内存储器统称为主机。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-71",
+    "number": 71,
+    "type": "single_choice",
+    "stem": "1GB 是1MB 的( )倍。",
+    "options": {
+      "A": "1024",
+      "B": "1000",
+      "C": "100",
+      "D": "10"
+    },
+    "answer": "A",
+    "explanation": "71.【答案】A。解析:1GB=1024MB,因此选择A 选项。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 71
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-72",
+    "number": 72,
+    "type": "single_choice",
+    "stem": "Windows7 中,在树型目录结构下,不允许两个文件名(包括扩展名)相同指的 是在( )。",
+    "options": {
+      "A": "不同磁盘的不同目录下",
+      "B": "不同的磁盘的同一个目录下",
+      "C": "同一个磁盘的不同目录下",
+      "D": "同一个磁盘的同一个目录下"
+    },
+    "answer": "D",
+    "explanation": "72.【答案】D。解析:在同一磁盘的同一目录下不能有两个文件名相同。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-73",
+    "number": 73,
+    "type": "single_choice",
+    "stem": "第一台通用电子计算机是1946 年在美国研制的,该机的英文缩写名是( )。",
+    "options": {
+      "A": "ENIAC",
+      "B": "EDVAC",
+      "C": "DESAC",
+      "D": "MARK-II"
+    },
+    "answer": "A",
+    "explanation": "73.【答案】A。解析:第一台通用计算机于1946 在美国研制成功,名叫埃尼阿克, 即ENIAC。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 73
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-74",
+    "number": 74,
+    "type": "single_choice",
+    "stem": "计算机网络的主要功能是( )。",
+    "options": {
+      "A": "浏览网页",
+      "B": "资源共享",
+      "C": "聊天",
+      "D": "电子邮件"
+    },
+    "answer": "B",
+    "explanation": "74.【答案】B。解析:计算机网络的本质/主要功能是资源共享。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-75",
+    "number": 75,
+    "type": "single_choice",
+    "stem": "一旦中心结点出现故障则整个网络瘫痪的局域网的拓扑结构是( )。",
+    "options": {
+      "A": "星型结构",
+      "B": "树型结构",
+      "C": "总线型结构",
+      "D": "环型结构"
+    },
+    "answer": "A",
+    "explanation": "75.【答案】A。解析:星型拓扑结构是集中式管理,所有的结点都是和中央结点直 接相连接,这样当中央结点出现故障的时候就会影响整个网络的通信。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 75
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-76",
+    "number": 76,
+    "type": "single_choice",
+    "stem": "按格式刷按钮可以进行( )操作。",
+    "options": {
+      "A": "复制文本的格式",
+      "B": "保存文本",
+      "C": "复制文本",
+      "D": "以上三种都不对"
+    },
+    "answer": "A",
+    "explanation": "76.【答案】A。解析:格式刷可以快速将指定段落或文本的格式延用到其他段落或 文本上。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-77",
+    "number": 77,
+    "type": "single_choice",
+    "stem": "在计算机中,存储容量的基本单位是( )。",
+    "options": {
+      "A": "位",
+      "B": "字长",
+      "C": "字节",
+      "D": "字"
+    },
+    "answer": "C",
+    "explanation": "77.【答案】C。解析:存储容量的基本单位是字节。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 77
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-78",
+    "number": 78,
+    "type": "single_choice",
+    "stem": "在Word 编辑状态下,不可以进行的操作是( )。",
+    "options": {
+      "A": "对选定的段落进行页眉、页脚设置",
+      "B": "在选定的段落内进行查找、替换",
+      "C": "对选定的段落进行拼写和语法检查",
+      "D": "对选定的段落进行字数统计"
+    },
+    "answer": "A",
+    "explanation": "78.【答案】A。解析:在段落中不可以设置页眉页脚。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-79",
+    "number": 79,
+    "type": "single_choice",
+    "stem": "在Excel 工作表中,不正确的单元格地址是( )。",
+    "options": {
+      "A": "C$66",
+      "B": "$C66",
+      "C": "C6$6",
+      "D": "$C$66"
+    },
+    "answer": "C",
+    "explanation": "79.【答案】C。解析:Excel 表中行号用阿拉伯数字表示,列标用大写英文字母表 示,绝对引用符号$需加在行号前或列标前,因此C 选项错误。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 79
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-80",
+    "number": 80,
+    "type": "single_choice",
+    "stem": "查看IP 地址的操作在控制面板的( )中进行。",
+    "options": {
+      "A": "系统",
+      "B": "性能信息和工具",
+      "C": "同步中心",
+      "D": "网络和共享中心"
+    },
+    "answer": "D",
+    "explanation": "80.【答案】D。解析:在控制面板中的“网络和共享中心”里可以查看IP 地址。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-81",
+    "number": 81,
+    "type": "single_choice",
+    "stem": "把当前活动窗口作为图形复制到剪贴板上,使用( )组合键。",
+    "options": {
+      "A": "Alt+PrintScreen",
+      "B": "PrintScreen",
+      "C": "Shift+PrintScreen",
+      "D": "Ctrl+PrintScreen"
+    },
+    "answer": "A",
+    "explanation": "81.【答案】A。解析:Alt+PrintScreen 快捷组合键是用来实现当前活动窗口的截图, PrintScreen 快捷键是用来实现当前整个屏幕的截图。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 81
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-82",
+    "number": 82,
+    "type": "single_choice",
+    "stem": "在PowerPoint 中要选定多个图形或图片时,需( ),然后用鼠标单击要选定 的图形对象。",
+    "options": {
+      "A": "先按住Alt 键",
+      "B": "先按住Home 键",
+      "C": "先按住Shift 键",
+      "D": "先按住Del 键"
+    },
+    "answer": "C",
+    "explanation": "82.【答案】C。解析:在PowerPoint 中要选定多个图形或图片时,需先按住Shift 键(或Ctrl 键),然后用鼠标单击要选定的图形对象。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-83",
+    "number": 83,
+    "type": "single_choice",
+    "stem": "在Internet 的域名中,代表计算机所在国家或地区的符号“.cn”是指( )。",
+    "options": {
+      "A": "中国",
+      "B": "台湾",
+      "C": "香港",
+      "D": "加拿大"
+    },
+    "answer": "A",
+    "explanation": "83.【答案】A。解析:cn 代表中国。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 83
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-84",
+    "number": 84,
+    "type": "single_choice",
+    "stem": "Internet 上有许多应用,其中主要用来浏览网页信息的是( )。",
+    "options": {
+      "A": "E-mail",
+      "B": "FTP",
+      "C": "Telnet",
+      "D": "WWW"
+    },
+    "answer": "D",
+    "explanation": "84.【答案】D。解析:因特网的应用很多,包括电子邮件、文件传输、远程登录和 万维网,其中万维网(WWW)是用来浏览网页信息的。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-85",
+    "number": 85,
+    "type": "single_choice",
+    "stem": "计算机中字节是常用单位,它的英文名字是( )。",
+    "options": {
+      "A": "bit",
+      "B": "byte",
+      "C": "bout",
+      "D": "baut"
+    },
+    "answer": "B",
+    "explanation": "85.【答案】B。解析:计算机中字节是常用单位,它的英文名字是byte。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 85
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-86",
+    "number": 86,
+    "type": "single_choice",
+    "stem": "Excel 中不能实现的操作是( )。",
+    "options": {
+      "A": "合并居中",
+      "B": "筛选",
+      "C": "分类汇总",
+      "D": "分栏计算"
+    },
+    "answer": "D",
+    "explanation": "86.【答案】D。解析:Excel 不能实现分栏计算。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-87",
+    "number": 87,
+    "type": "single_choice",
+    "stem": "在Excel 中,用户可以使用( )自动填充数据。",
+    "options": {
+      "A": "填充柄",
+      "B": "填充列表",
+      "C": "快捷键",
+      "D": "空格键"
+    },
+    "answer": "A",
+    "explanation": "87.【答案】A。解析:在Excel 里可以使用填充柄完成数据自动填充。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 87
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-88",
+    "number": 88,
+    "type": "single_choice",
+    "stem": "在Excel 中取消工作表的自动筛选后( )。",
+    "options": {
+      "A": "工作表的数据消失",
+      "B": "工作表恢复原样",
+      "C": "只剩下符合筛选条件的记录",
+      "D": "不能取消自动筛选"
+    },
+    "answer": "B",
+    "explanation": "88.【答案】B。解析:在Excel 中取消工作表的自动筛选后工作表恢复原样。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 88
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-89",
+    "number": 89,
+    "type": "single_choice",
+    "stem": "在Excel 工作表操作中,可以将公式“=B1+B2+B3+B4”转换为( )。",
+    "options": {
+      "A": "SUM(B1,B4)",
+      "B": "=SUM(B1:B4)",
+      "C": "=SUM(B1,B4)",
+      "D": "SUM(B1:B4)"
+    },
+    "answer": "B",
+    "explanation": "89.【答案】B。解析:公式必须要以等号开头,用冒号连接连续的单元格,因此答 案选择D 选项。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 89
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-90",
+    "number": 90,
+    "type": "single_choice",
+    "stem": "在PowerPoint 浏览视图下,按住Ctrl 键并拖动某幻灯片,完成的操作是( )。",
+    "options": {
+      "A": "移动幻灯片",
+      "B": "删除幻灯片",
+      "C": "复制幻灯片",
+      "D": "隐藏幻灯片 判断题"
+    },
+    "answer": "C",
+    "explanation": "90.【答案】C。解析:按住Ctrl 键并拖动某幻灯片,完成的操作是复制幻灯片。 判断题",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-91",
+    "number": 91,
+    "type": "judge",
+    "stem": "Word 文件中不可能隐藏病毒。( )",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": "B",
+    "explanation": "91.【答案】B。解析:有一种病毒叫做宏病毒,宏病毒是一种存储于文档、模板或 加载宏程序中的计算机病毒。宏病毒只感染微软的文档(.doc 或.xls 等),所以Word 文件(比如.doc 的文件)是可能隐藏病毒的。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 91
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-92",
+    "number": 92,
+    "type": "judge",
+    "stem": "在Excel 中,所有工作表具有相同表名。( )",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": "B",
+    "explanation": "92.【答案】B。解析:同一工作簿中工作表的表名不可相同。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-93",
+    "number": 93,
+    "type": "judge",
+    "stem": "计算机软件系统通常分为系统软件和专用软件。( )",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": "B",
+    "explanation": "93.【答案】B。解析:计算机软件系统分为系统软件和应用软件。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 93
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-94",
+    "number": 94,
+    "type": "judge",
+    "stem": "在Word 中,保存文件的快捷键是Ctrl+S。( )",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": "A",
+    "explanation": "94.【答案】A。解析:在Word 中,Ctrl+S 是保存文档的快捷键。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-95",
+    "number": 95,
+    "type": "judge",
+    "stem": "第一代计算机逻辑元件采用的是电子管。( )",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": "A",
+    "explanation": "95.【答案】A。解析:按照电子元器件的不同把计算机的发展分成了四个时代。第 一代:电子管。第二代:晶体管。第三代:中小规模集成电路。第四代:大规模及超大 规模集成电路。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 95
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-96",
+    "number": 96,
+    "type": "judge",
+    "stem": "在Excel 中只能插入和删除行、列,但不能插入和删除单元格。( )",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": "B",
+    "explanation": "96.【答案】B。解析:单元格作为操作的最小的单位,可以插入删除。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-97",
+    "number": 97,
+    "type": "judge",
+    "stem": "1KB 表示1024 字节。( )",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": "A",
+    "explanation": "97.【答案】A。解析:字节(B),计算机中1KB 即1024 字节,1MB 即1024KB。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 97
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-98",
+    "number": 98,
+    "type": "judge",
+    "stem": "Word 允许同时打开多个文档,但只有一个文档窗口是当前活动窗口。( )",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": "A",
+    "explanation": "98.【答案】A。解析:当前活动窗口有且只有一个。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-99",
+    "number": 99,
+    "type": "judge",
+    "stem": "计算机外存中的数据可以直接进入CPU 处理。( )",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": "B",
+    "explanation": "99.【答案】B。解析:CPU 能直接访问的存储器是内存而非外存。外存中的数据 送入到内存后,才能被CPU 处理。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 99
+  },
+  {
+    "paperId": "计算机题本100题",
+    "questionId": "normal-计算机题本100题-100",
+    "number": 100,
+    "type": "judge",
+    "stem": "可以在幻灯片中插入表格。( )",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": "A",
+    "explanation": "100.【答案】A。解析:幻灯片中可以自定义绘制表格也可以插入Excel 电子表格。",
+    "tags": [
+      "normal",
+      "计算机题本100题"
+    ],
+    "sourcePage": 100
+  }
+]

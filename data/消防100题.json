@@ -1,0 +1,2002 @@
+[
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-1",
+    "number": 1,
+    "type": "single_choice",
+    "stem": "燃烧是一种放热发光的( )。",
+    "options": {
+      "A": "化学反应",
+      "B": "物理反应",
+      "C": "光电反应",
+      "D": "分解反应"
+    },
+    "answer": "A",
+    "explanation": "1.【答案】A。解析:燃烧是一种放热发光的化学反应。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 1
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-2",
+    "number": 2,
+    "type": "single_choice",
+    "stem": "凡是能与空气中的氧或其他氧化剂起化学反应的物质,不论是气体、液体还是固 体,也不论是金属还是非金属、无机物或是有机物,均称为( )。",
+    "options": {
+      "A": "着火源",
+      "B": "可燃物",
+      "C": "助燃物",
+      "D": "易燃物"
+    },
+    "answer": "B",
+    "explanation": "2.【答案】B。解析:凡是能与空气中的氧或其他氧化剂起化学反应的物质,不论是气体、液体还是固体,也不论是金属还是非金属、无机物或是有机物,均称为可燃物。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-3",
+    "number": 3,
+    "type": "single_choice",
+    "stem": "( )是指易燃或可燃液体表面产生闪燃的最低温度。",
+    "options": {
+      "A": "燃点",
+      "B": "爆点",
+      "C": "临界点",
+      "D": "闪点"
+    },
+    "answer": "D",
+    "explanation": "3.【答案】D。解析:闪点是指易燃或可燃液体表面产生闪燃的最低温度。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 3
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-4",
+    "number": 4,
+    "type": "single_choice",
+    "stem": "可燃物质在空气中没有外部火花、火焰等火源的作用,靠自身发热或外来热源引 发的自行燃烧现象叫( )。",
+    "options": {
+      "A": "自燃",
+      "B": "着火",
+      "C": "闪燃",
+      "D": "爆燃"
+    },
+    "answer": "A",
+    "explanation": "4.【答案】A。解析:可燃物质在空气中没有外部火花、火焰等火源的作用,靠自 身发热或外来热源引发的自行燃烧现象叫自燃。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-5",
+    "number": 5,
+    "type": "single_choice",
+    "stem": "受热升华,产生可燃蒸气的是( )。",
+    "options": {
+      "A": "樟脑",
+      "B": "石蜡",
+      "C": "磷",
+      "D": "硫磺"
+    },
+    "answer": "A",
+    "explanation": "5.【答案】A。解析:樟脑受热后直接升华,并产生可燃蒸气。石蜡、磷和硫磺受热后先熔化。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 5
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-6",
+    "number": 6,
+    "type": "single_choice",
+    "stem": "( )的燃烧不属于表面燃烧。",
+    "options": {
+      "A": "木炭",
+      "B": "钨",
+      "C": "电焊",
+      "D": "合成橡胶"
+    },
+    "answer": "D",
+    "explanation": "6.【答案】D。解析:表面燃烧是指可燃固体(如木炭、焦炭、铁、铜等)的燃烧反应是在其表面由氧和物质直接作用而发生的,称为表面燃烧。这是一种无火焰的燃烧,有时又称之为异相燃烧。合成橡胶在受到火源加热时,先发生热分解,随后分解出的可燃挥发分与氧发生燃烧反应,属于分解燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-7",
+    "number": 7,
+    "type": "single_choice",
+    "stem": "燃烧产物对灭火有利方面( )。",
+    "options": {
+      "A": "引起人员中毒、窒息",
+      "B": "在一定条件下有阻燃作用",
+      "C": "影响视线",
+      "D": "成为火势发展、蔓延的因素"
+    },
+    "answer": "B",
+    "explanation": "7.【答案】B。解析:燃烧产物对灭火有利方面在一定条件下有阻燃作用。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 7
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-8",
+    "number": 8,
+    "type": "single_choice",
+    "stem": "人们正常呼吸的空气中氧气占( )左右(体积分数)。",
+    "options": {
+      "A": "20%",
+      "B": "16%",
+      "C": "21%",
+      "D": "12%"
+    },
+    "answer": "C",
+    "explanation": "8.【答案】C。解析:人们正常呼吸的空气中氧气占 21%左右(体积分数)。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-9",
+    "number": 9,
+    "type": "single_choice",
+    "stem": "高温能损伤呼吸道,当火场温度达到( )时,能使人的血压迅速下降,导致 循环系统衰竭。",
+    "options": {
+      "A": "49~50°",
+      "B": "59~60°",
+      "C": "39~40°",
+      "D": "69-70°C"
+    },
+    "answer": "B",
+    "explanation": "9.【答案】B。解析:高温能损伤呼吸道,当火场温度达到 59~60°C时,能使人的血压迅速下降,导致循环系统衰竭。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 9
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-10",
+    "number": 10,
+    "type": "single_choice",
+    "stem": "不属于“",
+    "options": {
+      "A": "类火灾”的是( )。 木材",
+      "B": "棉",
+      "C": "毛",
+      "D": "石蜡"
+    },
+    "answer": "D",
+    "explanation": "10.【答案】D。解析:解析:按照国家标准《火灾分类》(GB/T4968——2008) 的规定,火灾分为 A.B.C.D.E、F 六类。 A 类火灾:固体物质火灾。这种物质通常具有有机物性质,一般在燃烧时能产生灼热的余烬。例如,木材、棉、毛、麻、纸张等火灾。 B 类火灾:液体或可熔化固体物质火灾。例如,汽油、煤油、原油、甲醇、乙醇、沥青、石蜡等火灾。 C 类火灾:气体火灾。例如,煤气、天然气、甲烷、乙烷、氢气、乙炔等火灾。 D 类火灾:金属火灾。例如,钾、钠、镁、钛、锆、锂等火灾。 E 类火灾:带电火灾。物体带电燃烧的火灾。例如,变压器等设备的电气火灾等。 F 类火灾:烹饪器具内的烹饪物(如动物油脂或植物油脂)火灾。 故本题选 D。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-11",
+    "number": 11,
+    "type": "single_choice",
+    "stem": "爆炸是物质从一种状态通过( )变化突然变成另一种状态,并放出巨大能量 而作机械功的过程。",
+    "options": {
+      "A": "物理和化学",
+      "B": "原子和分子",
+      "C": "有机和无极",
+      "D": "内因和外因"
+    },
+    "answer": "A",
+    "explanation": "11.【答案】A。解析:爆炸是物质从一种状态通过物理和化学变化突然变成另一种 状态,并放出巨大能量而作机械功的过程。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 11
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-12",
+    "number": 12,
+    "type": "single_choice",
+    "stem": "礼花弹以易燃物和氧化剂为原料混合配制,能引起爆炸,燃烧时间较长,温度 高,发射高度一般要求达到( )。",
+    "options": {
+      "A": "100m 以下",
+      "B": "100-200m",
+      "C": "200~500m",
+      "D": "500m 以上"
+    },
+    "answer": "C",
+    "explanation": "12.【答案】C。解析:礼花弹以易燃物和氧化剂为原料混合配制,能引起爆炸,燃 烧时间较长,温度高,发射高度一般要求达到 200~500m 。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-13",
+    "number": 13,
+    "type": "single_choice",
+    "stem": "影响爆炸品敏感度的因素很多,决定性的内在因素是( )。",
+    "options": {
+      "A": "化学组成和化学结构",
+      "B": "高温",
+      "C": "杂质",
+      "D": "密度"
+    },
+    "answer": "A",
+    "explanation": "13.【答案】A。解析:影响爆炸品敏感度的因素很多,决定性的内在因素是化学组 成和化学结构。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 13
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-14",
+    "number": 14,
+    "type": "single_choice",
+    "stem": "易燃气体是指20°C和101.3kPa 条件下,与空气的混合物按体积分数占( ) 或更少时可点燃。",
+    "options": {
+      "A": "15%",
+      "B": "14%",
+      "C": "13%",
+      "D": "12%"
+    },
+    "answer": "C",
+    "explanation": "14【答案】C。解析:易燃气体是指 20°C和 101.3kPa 条件下,与空气的混合物按 体积分数占 13%或更少时可点燃。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 14
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-15",
+    "number": 15,
+    "type": "single_choice",
+    "stem": "乙炔无色无臭气体,大部分工业品含有硫化物、磷化物等杂质,使其有蒜样气 味,极易燃烧爆炸,爆炸极限( )。",
+    "options": {
+      "A": "15%~85%",
+      "B": "0.5%~92%",
+      "C": "1.5%~12%",
+      "D": "2.5%~82%"
+    },
+    "answer": "D",
+    "explanation": "15【答案】D。解析:乙炔无色无臭气体,大部分工业品含有硫化物、磷化物等杂 质,使其有蒜样气味,极易燃烧爆炸,爆炸极限 2.5%~82%。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 15
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-16",
+    "number": 16,
+    "type": "single_choice",
+    "stem": "固体可燃物燃烧而引起的火灾是( )。",
+    "options": {
+      "A": "类火灾",
+      "B": "类火灾",
+      "C": "类火灾",
+      "D": "类火灾"
+    },
+    "answer": "A",
+    "explanation": "16.【答案】A。解析:固体可燃物燃烧而引起的火灾是 A 类火灾。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 16
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-17",
+    "number": 17,
+    "type": "single_choice",
+    "stem": "氯气( )色有刺激性气味的气体。",
+    "options": {
+      "A": "无色",
+      "B": "黄绿",
+      "C": "蓝色",
+      "D": "白色"
+    },
+    "answer": "B",
+    "explanation": "17.【答案】B。解析:氯气黄绿色有刺激性气味的气体。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 17
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-18",
+    "number": 18,
+    "type": "single_choice",
+    "stem": "煤气无色有特臭的易燃气体,剧毒,爆炸极限( )。",
+    "options": {
+      "A": "1.5%~10%",
+      "B": "2.5%~20%",
+      "C": "4.5%~40%",
+      "D": "15%~90%"
+    },
+    "answer": "C",
+    "explanation": "18.【答案】C。解析:煤气无色有特臭的易燃气体,剧毒,爆炸极限 4.5%~40%。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-19",
+    "number": 19,
+    "type": "single_choice",
+    "stem": "不能作为硝化棉灭火剂( )。",
+    "options": {
+      "A": "水",
+      "B": "泡沫",
+      "C": "二氧化碳",
+      "D": "干粉"
+    },
+    "answer": "D",
+    "explanation": "19.【答案】D。解析:硝化棉属于无空气时仍能迅速氧化的化学物质与强氧化剂, 不可使用干粉灭火剂。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 19
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-20",
+    "number": 20,
+    "type": "single_choice",
+    "stem": "多功能消防水枪主要适用于( )。",
+    "options": {
+      "A": "建筑火灾",
+      "B": "交通工具火灾",
+      "C": "小面积油类火灾以及可燃",
+      "D": "有毒气体等危险化学品泄漏"
+    },
+    "answer": "A",
+    "explanation": "20.【答案】A。解析:多功能消防水枪主要适用于建筑火灾。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-21",
+    "number": 21,
+    "type": "single_choice",
+    "stem": "闪点小于或等于( )称为易燃液体。",
+    "options": {
+      "A": "35°",
+      "B": "45°",
+      "C": "55°",
+      "D": "40°C"
+    },
+    "answer": "B",
+    "explanation": "21.【答案】B。解析:闪点小于或等于45°C称为易燃液体。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 21
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-22",
+    "number": 22,
+    "type": "single_choice",
+    "stem": "成捆堆放的棉、麻、纸张及大量堆放的煤、杂草、湿木材等,受热后易发生( )。",
+    "options": {
+      "A": "燃烧",
+      "B": "自燃",
+      "C": "阴燃",
+      "D": "闪燃"
+    },
+    "answer": "C",
+    "explanation": "22.【答案】C。解析:成捆堆放的棉、麻、纸张及大量堆放的煤、杂草、湿木材等, 受热后易发生阴燃。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-23",
+    "number": 23,
+    "type": "single_choice",
+    "stem": "在密闭或通风不良的场所发生火灾,燃烧速度( )。",
+    "options": {
+      "A": "不变",
+      "B": "加快",
+      "C": "减慢",
+      "D": "先减慢后加快"
+    },
+    "answer": "C",
+    "explanation": "23.【答案】C。解析:在密闭或通风不良的场所发生火灾,燃烧速度减慢。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 23
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-24",
+    "number": 24,
+    "type": "single_choice",
+    "stem": "氢气的爆炸浓度下限为( )。",
+    "options": {
+      "A": "3.5%",
+      "B": "4.0%",
+      "C": "4.5%",
+      "D": "5.0%"
+    },
+    "answer": "A",
+    "explanation": "24.【答案】A。解析:氢气的爆炸浓度下限为3.5%。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-25",
+    "number": 25,
+    "type": "single_choice",
+    "stem": "钠的火焰颜色为( )。",
+    "options": {
+      "A": "紫色",
+      "B": "砖红",
+      "C": "黄色",
+      "D": "红色"
+    },
+    "answer": "C",
+    "explanation": "25.【答案】C。解析:钠的火焰颜色为黄色。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 25
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-26",
+    "number": 26,
+    "type": "single_choice",
+    "stem": "易燃液体的燃点比其闪点高出( )°C。",
+    "options": {
+      "A": "1~2",
+      "B": "1~3",
+      "C": "1~4",
+      "D": "1~5"
+    },
+    "answer": "D",
+    "explanation": "26.【答案】D。解析:易燃液体的燃点比其闪点高出1~5°C。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-27",
+    "number": 27,
+    "type": "single_choice",
+    "stem": "不属于阴燃的条件是( )。",
+    "options": {
+      "A": "空气不流通",
+      "B": "加热温度较低",
+      "C": "可燃物含水分较多",
+      "D": "与氧化剂接触"
+    },
+    "answer": "D",
+    "explanation": "27.【答案】D。解析:不属于阴燃的条件是与氧化剂接触。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 27
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-28",
+    "number": 28,
+    "type": "single_choice",
+    "stem": "( )、磷、钾等单质固体物质着火原先熔融,后燃烧。",
+    "options": {
+      "A": "硫",
+      "B": "沥青",
+      "C": "石蜡",
+      "D": "松香"
+    },
+    "answer": "A",
+    "explanation": "28.【答案】A。解析:硫 、磷、钾等单质固体物质着火原先熔融,后燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-29",
+    "number": 29,
+    "type": "single_choice",
+    "stem": "下列不属于有毒或有刺激性的气体是( )。",
+    "options": {
+      "A": "氯化氢",
+      "B": "光气",
+      "C": "氰化氢",
+      "D": "二氧化碳"
+    },
+    "answer": "D",
+    "explanation": "29.【答案】D。解析:下列不属于有毒或有刺激性的气体是二氧化碳。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 29
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-30",
+    "number": 30,
+    "type": "single_choice",
+    "stem": "表示燃烧发生和发展的必要条件时,“四面体”是指可燃物,氧化物,引火源 和( )。",
+    "options": {
+      "A": "氧化反应",
+      "B": "热分解反映",
+      "C": "热传递",
+      "D": "链式反映自由基"
+    },
+    "answer": "D",
+    "explanation": "30.【答案】D。解析:解析:大部分燃烧发生和发展需要四个必要条件,即可燃物、 助燃物(氧化剂)、引火源(温度)和链式反应自由基。故本题答案选D。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-31",
+    "number": 31,
+    "type": "single_choice",
+    "stem": "液体的( )即为液体的闪点。",
+    "options": {
+      "A": "爆炸浓度上限",
+      "B": "爆炸浓度下限",
+      "C": "爆炸温度上限",
+      "D": "爆炸温度下限"
+    },
+    "answer": "D",
+    "explanation": "31.【答案】D。解析:解析:闪点是判断液体火灾危险性大小及对可燃性液体进行 分类的主要依据。闪点是在一稳定的空气环境中,可燃性液体或固体表面产生的蒸气在 试验火焰作用下被闪燃时的最低温度。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 31
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-32",
+    "number": 32,
+    "type": "single_choice",
+    "stem": "可燃物的燃点越( ),越容易着火,火灾危险性也就越大。",
+    "options": {
+      "A": "越高",
+      "B": "越低",
+      "C": "越大",
+      "D": "越小"
+    },
+    "answer": "B",
+    "explanation": "32.【答案】B。解析:解析:燃点是可燃物开始持续燃烧所需要的最低温度,所以 可燃物的燃点越低,越容易着火,火灾危险性也就越大。故本题答案选B。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-33",
+    "number": 33,
+    "type": "single_choice",
+    "stem": "《消防法》规定:消防工作由国务院领导,由( )负责。",
+    "options": {
+      "A": "省级人民政府",
+      "B": "市级人民政府",
+      "C": "各级人民政府",
+      "D": "地方各级人民政府"
+    },
+    "answer": "D",
+    "explanation": "33.【答案】D。解析:解析:《消防法》第3 条第1 款规定:消防工作由国务院领 导,由地方各级人民政府负责。故本题答案选D。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 33
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-34",
+    "number": 34,
+    "type": "single_choice",
+    "stem": "物质燃烧是( )反应,而( )反应不一定是燃烧,能被( )的物质不 一定都是能够燃烧的物质。",
+    "options": {
+      "A": "氧化",
+      "B": "还原",
+      "C": "化学",
+      "D": "链式"
+    },
+    "answer": "A",
+    "explanation": "34.【答案】A。解析:解析:物质燃烧是氧化反应,而氧化反应不一定是燃烧,能 被氧化的物质不一定都是能够燃烧的物质。可燃物质的多数氧化反应不是直接进行的, 而是经过一系列复杂的中间反应阶段,不是氧化整个分子,而是氧化链反应中间产物— —游离基或原子。可见,燃烧是一种极其复杂的化学反应,游离基的链反应是燃烧反应 的实质,光和热是燃烧过程中发生的物理现象。故本题答案选A。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-35",
+    "number": 35,
+    "type": "single_choice",
+    "stem": "沥青的燃烧属于( )。",
+    "options": {
+      "A": "蒸发燃烧",
+      "B": "分解燃烧",
+      "C": "表面燃烧",
+      "D": "阴燃"
+    },
+    "answer": "A",
+    "explanation": "35.【答案】A。解析:解析:蒸发燃烧是指熔点较低的可燃固体,受热后熔融,然 后像可燃液体一样蒸发成蒸气而燃烧。如硫、沥青、石蜡、高分子材料、萘和樟脑等。 沥青的燃烧即属于蒸发燃烧,故本题答案选A。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 35
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-36",
+    "number": 36,
+    "type": "single_choice",
+    "stem": "闪点为18°C的液体属于( )火灾危险性液体。",
+    "options": {
+      "A": "甲类",
+      "B": "乙类",
+      "C": "丙类",
+      "D": "丁类"
+    },
+    "answer": "A",
+    "explanation": "36.【答案】A。解析:根据闪点的高低,可以用来确定生产、加工、储存可燃性液 体场所的火灾危险性类别:闪点<28°C的为甲类;28°C≤闪点<60°C的为乙类;闪点≥ 60°C的为丙类。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-37",
+    "number": 37,
+    "type": "single_choice",
+    "stem": "木材及大部分有机材料属于( )。",
+    "options": {
+      "A": "可燃性建筑材料",
+      "B": "易燃性建筑材料",
+      "C": "难燃性建筑材料",
+      "D": "不燃性建筑材料"
+    },
+    "answer": "A",
+    "explanation": "37.【答案】A。解析:木材及大部分有机材料属于可燃性建筑材料。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 37
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-38",
+    "number": 38,
+    "type": "single_choice",
+    "stem": "属于可燃性建筑材料是( )。",
+    "options": {
+      "A": "木材",
+      "B": "砼",
+      "C": "钢材",
+      "D": "砖"
+    },
+    "answer": "A",
+    "explanation": "38.【答案】A。解析:木材及大部分有机材料属于可燃性建筑材料。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-39",
+    "number": 39,
+    "type": "single_choice",
+    "stem": "一起火灾,死亡3 人,受伤35 人,直接财产损失6580 万元,这起火灾属于( )。",
+    "options": {
+      "A": "特别重大火灾",
+      "B": "重大火灾",
+      "C": "较大火灾",
+      "D": "一般火灾"
+    },
+    "answer": "B",
+    "explanation": "39.【答案】B。解析:解析:依据国务院2007 年4 月9 日颁布的《生产安全事故 报告和调査处理条例》(国务院令493 号)中规定的生产安全事故等级标准,消防部门 将火灾相应地分为特别重大火灾、重大火灾、较大火灾和一般火灾四个等级。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 39
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-40",
+    "number": 40,
+    "type": "single_choice",
+    "stem": "化学实验中,为防止( )发生氧化自燃,常将其置于水中保存。",
+    "options": {
+      "A": "硝化棉",
+      "B": "黄磷",
+      "C": "稻草",
+      "D": "玉米"
+    },
+    "answer": "B",
+    "explanation": "40.【答案】B。解析:解析:黄磷在水中缺乏氧气难以燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-41",
+    "number": 41,
+    "type": "single_choice",
+    "stem": "在消防工作中,以( )的高低作为评价液体火灾危险性的依据。",
+    "options": {
+      "A": "自燃点",
+      "B": "燃点",
+      "C": "闪点",
+      "D": "沸点"
+    },
+    "answer": "C",
+    "explanation": "41.【答案】C。解析:解析:闪点是判断液体火灾危险性大小及对可燃性液体进行 分类的主要依据。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 41
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-42",
+    "number": 42,
+    "type": "single_choice",
+    "stem": "燃烧速度减慢的无火焰的燃烧现象为( )。",
+    "options": {
+      "A": "蒸发燃烧",
+      "B": "分解燃烧",
+      "C": "表面燃烧",
+      "D": "阴燃"
+    },
+    "answer": "D",
+    "explanation": "42.【答案】D。解析:解析:阴燃是指某些固体可燃物在空气不流通,加热温度较 低或可燃物含水分较多等条件下发生的只冒烟、无火焰的燃烧现象。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 42
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-43",
+    "number": 43,
+    "type": "single_choice",
+    "stem": "燃烧过程中的氧化剂主要是氧。空气中氧的含量大约为( )。",
+    "options": {
+      "A": "14%",
+      "B": "21%",
+      "C": "78%",
+      "D": "87%"
+    },
+    "answer": "B",
+    "explanation": "43.【答案】B。解析:解析:空气中氧气含量21%,氮气含量78%,二氧化碳0.03%, 其它杂质气体0.03%,稀有气体0.94%。故本题答案选B。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 43
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-44",
+    "number": 44,
+    "type": "single_choice",
+    "stem": "可燃物与氧化剂作用发生的放热反应,通常伴有( )现象,称为燃烧。",
+    "options": {
+      "A": "火焰,发光",
+      "B": "发光,发烟",
+      "C": "火焰,发烟",
+      "D": "火焰,发光和发烟"
+    },
+    "answer": "D",
+    "explanation": "44.【答案】D。解析:可燃物与氧化剂作用发生的放热反应,通常伴有火焰,发光 和发烟现象,称为燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-45",
+    "number": 45,
+    "type": "single_choice",
+    "stem": "物质在燃烧时生产的气体,蒸气和固体物质叫,称为( )。",
+    "options": {
+      "A": "烟雾",
+      "B": "燃烧产物",
+      "C": "烟气",
+      "D": "气溶胶"
+    },
+    "answer": "B",
+    "explanation": "45.【答案】B。解析:物质在燃烧时生产的气体,蒸气和固体物质叫,称为燃烧产 物。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 45
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-46",
+    "number": 46,
+    "type": "single_choice",
+    "stem": "物质由一种状态迅速地转变另一种状态,并在瞬间以机械力的形式释放出巨大 能量,或是气体。蒸气在瞬间发生剧烈膨胀等现象,称为( )。",
+    "options": {
+      "A": "闪燃",
+      "B": "着火",
+      "C": "自燃",
+      "D": "爆炸"
+    },
+    "answer": "D",
+    "explanation": "46.【答案】D。解析:物质由一种状态迅速地转变另一种状态,并在瞬间以机械力 的形式释放出巨大能量,或是气体。蒸气在瞬间发生剧烈膨胀等现象,称为爆炸。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-47",
+    "number": 47,
+    "type": "single_choice",
+    "stem": "( )指装在容器内的液体,由于变成蒸汽,气体或者状态迅速膨胀,压力急 剧增加,并大大超过容器所能承受的极限压力时而发生爆炸。",
+    "options": {
+      "A": "化学性爆炸",
+      "B": "压力膨胀",
+      "C": "物理性膨胀",
+      "D": "核爆炸"
+    },
+    "answer": "C",
+    "explanation": "47.【答案】C。解析:物理性膨胀指装在容器内的液体,由于变成蒸汽,气体或者 状态迅速膨胀,压力急剧增加,并大大超过容器所能承受的极限压力时而发生爆炸。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 47
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-48",
+    "number": 48,
+    "type": "single_choice",
+    "stem": "罐中含有自由水的原油、重油、沥青油等石油产品,在热波作用下发生一种燃 烧现象,称为( )式燃烧。",
+    "options": {
+      "A": "爆炸",
+      "B": "喷发",
+      "C": "沸溢",
+      "D": "稳定"
+    },
+    "answer": "C",
+    "explanation": "48.【答案】C。解析:罐中含有自由水的原油、重油、沥青油等石油产品,在热波 作用下发生一种燃烧现象,称为沸溢式燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-49",
+    "number": 49,
+    "type": "single_choice",
+    "stem": "凡是对人体、动植物体、纤维品、金属等能造成强烈腐蚀的物品,称为( )。",
+    "options": {
+      "A": "毒害品",
+      "B": "化危品",
+      "C": "腐蚀品",
+      "D": "放射性物品"
+    },
+    "answer": "C",
+    "explanation": "49.【答案】C。解析:凡是对人体、动植物体、纤维品、金属等能造成强烈腐蚀的 物品,称为腐蚀品。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 49
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-50",
+    "number": 50,
+    "type": "single_choice",
+    "stem": "( )指热从物体的一部分传播到另一部分的现象或热能通过物质从高温区向 低温区的流。",
+    "options": {
+      "A": "热辐射",
+      "B": "热传导",
+      "C": "热对流",
+      "D": "热传导"
+    },
+    "answer": "B",
+    "explanation": "50.【答案】B。解析:热传导指热从物体的一部分传播到另一部分的现象或热能通 过物质从高温区向低温区的流。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-51",
+    "number": 51,
+    "type": "single_choice",
+    "stem": "凡是物质燃烧后,产生不能继续燃烧的物质,这种燃烧叫做( )。",
+    "options": {
+      "A": "彻底燃烧",
+      "B": "充分燃烧",
+      "C": "猛烈燃烧",
+      "D": "完全燃烧"
+    },
+    "answer": "D",
+    "explanation": "51.【答案】D。解析:凡是物质燃烧后,产生不能继续燃烧的物质,这种燃烧叫做 完全燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 51
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-52",
+    "number": 52,
+    "type": "single_choice",
+    "stem": "因物质本身起化学反应,产生大量气体和高温而发生的爆炸称为( )。",
+    "options": {
+      "A": "物理爆炸",
+      "B": "化学爆炸",
+      "C": "粉尘爆炸",
+      "D": "核爆炸"
+    },
+    "answer": "B",
+    "explanation": "52.【答案】B。解析:因物质本身起化学反应,产生大量气体和高温而发生的爆炸 称为化学爆炸。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-53",
+    "number": 53,
+    "type": "single_choice",
+    "stem": "阴燃是( )的燃烧特点。",
+    "options": {
+      "A": "固体",
+      "B": "液体",
+      "C": "气体",
+      "D": "以上都是"
+    },
+    "answer": "A",
+    "explanation": "53.【答案】A。解析:阴燃是固体的燃烧特点。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 53
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-54",
+    "number": 54,
+    "type": "single_choice",
+    "stem": "( )指通过流动介质热微粒由空间的一处向另一处传播热能的现象。",
+    "options": {
+      "A": "热传导",
+      "B": "热交换",
+      "C": "热对流",
+      "D": "热辐射"
+    },
+    "answer": "C",
+    "explanation": "54.【答案】C。解析:热对流 指通过流动介质热微粒由空间的一处向另一处传 播热能的现象。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-55",
+    "number": 55,
+    "type": "single_choice",
+    "stem": "凡是能与空气中的氧或其它氧化剂发生化学反应的物质称( )。",
+    "options": {
+      "A": "助燃物",
+      "B": "可燃物",
+      "C": "着火源",
+      "D": "易燃物"
+    },
+    "answer": "B",
+    "explanation": "55.【答案】B。解析:凡是能与空气中的氧或其它氧化剂发生化学反应的物质称可 燃物。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 55
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-56",
+    "number": 56,
+    "type": "single_choice",
+    "stem": "( )、硫、磷等单质固体物质着火后先熔融,后燃烧。",
+    "options": {
+      "A": "钾",
+      "B": "沥青",
+      "C": "石蜡",
+      "D": "松香"
+    },
+    "answer": "A",
+    "explanation": "56.【答案】A。解析:钾、硫、磷等单质固体物质着火后先熔融,后燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-57",
+    "number": 57,
+    "type": "single_choice",
+    "stem": "有些固体可燃物的蒸气压非常小或者难于发生热分解,不能发生蒸发燃烧或分 解燃烧,当氧气包围物质的表层时,呈炽热状态发生无火焰燃烧,称为( )。",
+    "options": {
+      "A": "内部燃烧",
+      "B": "表面燃烧",
+      "C": "放射燃烧",
+      "D": "阴燃"
+    },
+    "answer": "B",
+    "explanation": "57.【答案】B。解析:有些固体可燃物的蒸气压非常小或者难于发生热分解,不能 发生蒸发燃烧或分解燃烧,当氧气包围物质的表层时,呈炽热状态发生无火焰燃烧,称 为表面燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 57
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-58",
+    "number": 58,
+    "type": "single_choice",
+    "stem": "凡是物质燃烧后,产生还能继续燃烧的物质,这种燃烧叫做( )。",
+    "options": {
+      "A": "不彻底燃烧",
+      "B": "不充分燃烧",
+      "C": "不完全燃烧",
+      "D": "阴燃"
+    },
+    "answer": "C",
+    "explanation": "58.【答案】C。解析:凡是物质燃烧后,产生还能继续燃烧的物质,这种燃烧叫做 不完全燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-59",
+    "number": 59,
+    "type": "single_choice",
+    "stem": "在固体可物中,燃点较低、燃烧剧烈的称为( )固体。",
+    "options": {
+      "A": "易燃",
+      "B": "难燃",
+      "C": "可燃",
+      "D": "自燃"
+    },
+    "answer": "A",
+    "explanation": "59.【答案】A。解析:在固体可物中,燃点较低、燃烧剧烈的称为易燃固体。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 59
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-60",
+    "number": 60,
+    "type": "single_choice",
+    "stem": "通过烟的( )等特征,消防人员可以大致判断燃烧物质的种类、火灾阶段、 火势蔓延方向等。",
+    "options": {
+      "A": "温度、浓度",
+      "B": "颜色变化",
+      "C": "扩散范围",
+      "D": "气味、颜色、浓度、流动方向"
+    },
+    "answer": "A",
+    "explanation": "60.【答案】A。解析:通过烟的温度、浓度等特征,消防人员可以大致判断燃烧物 质的种类、火灾阶段、火势蔓延方向等。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-61",
+    "number": 61,
+    "type": "single_choice",
+    "stem": "完全燃烧的燃烧产物都是( )气体。",
+    "options": {
+      "A": "可燃",
+      "B": "易燃",
+      "C": "毒性",
+      "D": "不燃、惰性"
+    },
+    "answer": "D",
+    "explanation": "61.【答案】D。解析:完全燃烧的燃烧产物都是不燃、惰性气体。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 61
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-62",
+    "number": 62,
+    "type": "single_choice",
+    "stem": "火焰的颜色与( )有关。",
+    "options": {
+      "A": "温度",
+      "B": "空气",
+      "C": "环境",
+      "D": "湿度"
+    },
+    "answer": "A",
+    "explanation": "62.【答案】A。解析:温度越高,颜色越白;温度越低,颜色越向橙、黄、红、暗 红逐步接近。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 62
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-63",
+    "number": 63,
+    "type": "single_choice",
+    "stem": "评价液体火灾危险性的依据是( )。",
+    "options": {
+      "A": "着火点",
+      "B": "闪点",
+      "C": "燃点",
+      "D": "自燃点"
+    },
+    "answer": "B",
+    "explanation": "63.【答案】B。解析:评价液体火灾危险性的依据是闪点。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 63
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-64",
+    "number": 64,
+    "type": "single_choice",
+    "stem": "易燃可燃液体的闪点( ),其火灾危险性就越大。",
+    "options": {
+      "A": "越高",
+      "B": "越低",
+      "C": "大于45°",
+      "D": "等于45°C"
+    },
+    "answer": "B",
+    "explanation": "64.【答案】B。解析:易燃可燃液体的闪点越低,其火灾危险性就越大。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-65",
+    "number": 65,
+    "type": "single_choice",
+    "stem": "合成橡胶、合成纤维属于( )固体。",
+    "options": {
+      "A": "易燃",
+      "B": "难燃",
+      "C": "可燃",
+      "D": "不燃"
+    },
+    "answer": "C",
+    "explanation": "65.【答案】C。解析:合成橡胶、合成纤维属于可燃固体。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 65
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-66",
+    "number": 66,
+    "type": "single_choice",
+    "stem": "下列( )的爆炸属于物理爆炸。",
+    "options": {
+      "A": "粉尘",
+      "B": "炸药",
+      "C": "钢瓶",
+      "D": "炸弹"
+    },
+    "answer": "C",
+    "explanation": "66.【答案】C。解析:钢瓶的爆炸属于物理爆炸。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-67",
+    "number": 67,
+    "type": "single_choice",
+    "stem": "凡在时间或空间上失去控制的燃烧所造成的灾害,称为( )。",
+    "options": {
+      "A": "着火点",
+      "B": "火灾",
+      "C": "爆炸",
+      "D": "燃烧"
+    },
+    "answer": "B",
+    "explanation": "67.【答案】B。解析:凡在时间或空间上失去控制的燃烧所造成的灾害,称为火灾。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 67
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-68",
+    "number": 68,
+    "type": "single_choice",
+    "stem": "热通过直接接触的物体从温度较高部位传递到温度较低部位的现象,叫做 ( )。",
+    "options": {
+      "A": "热传导",
+      "B": "热对流",
+      "C": "热辐射",
+      "D": "热传播"
+    },
+    "answer": "A",
+    "explanation": "68.【答案】A。解析:热传导是指物体一端受热,通过物体的分子热运动,把热量 从温度较高一端传递到温度较低的另一端的过程。热辐射是指以电磁波形式传递热量的 现象。热对流是指热量通过流动介质,由空间的一处传播到另一处的现象。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-69",
+    "number": 69,
+    "type": "single_choice",
+    "stem": "热通过流动介质将热量由空间中的一处传到另一处的现象,叫做( )。",
+    "options": {
+      "A": "热传导",
+      "B": "热辐射",
+      "C": "热对流",
+      "D": "热传播"
+    },
+    "answer": "C",
+    "explanation": "69.【答案】C。解析:热通过流动介质将热量由空间中的一处传到另一处的现象, 叫做热对流。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 69
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-70",
+    "number": 70,
+    "type": "single_choice",
+    "stem": "以电磁波形式传递热量的现象称为( )。",
+    "options": {
+      "A": "热传导",
+      "B": "热对流",
+      "C": "热辐射",
+      "D": "热传播"
+    },
+    "answer": "C",
+    "explanation": "70.【答案】C。解析:以电磁波形式传递热量的现象称为热辐射。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-71",
+    "number": 71,
+    "type": "single_choice",
+    "stem": "凡小量进入人、畜体内,能与机体组织发生作用,破坏正常生理功能引起机体 的暂时或永久性的病理状态,甚至死亡的物质都属()。",
+    "options": {
+      "A": "腐蚀品",
+      "B": "化危品",
+      "C": "病毒",
+      "D": "毒害品"
+    },
+    "answer": "D",
+    "explanation": "71.【答案】D。解析:凡小量进入人、畜体内,能与机体组织发生作用,破坏正常 生理功能引起机体的暂时或永久性的病理状态,甚至死亡的物质都属毒害品。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 71
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-72",
+    "number": 72,
+    "type": "single_choice",
+    "stem": "丙类易燃液体是指闪点( )°C的液体。",
+    "options": {
+      "A": ">60",
+      "B": "≥60",
+      "C": ">45",
+      "D": "≥45"
+    },
+    "answer": "B",
+    "explanation": "72.【答案】B。解析:丙类易燃液体是指闪点≥60°C的液体。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-73",
+    "number": 73,
+    "type": "single_choice",
+    "stem": "烟头中心温度可达( )。它超过棉,麻,毛织物,纸张,家具等可燃物的燃 点,若乱扔烟头接触这些可燃物,容易引起燃烧,甚至酿成火灾。",
+    "options": {
+      "A": "100-200°",
+      "B": "200-300°",
+      "C": "700-800°",
+      "D": "300-500°C"
+    },
+    "answer": "C",
+    "explanation": "73.【答案】C。解析:解析:烟头的表面温度很高,一般可达200-300°C,中心温 度可达700-800°C。而可燃物质的燃点大都在烟头表面温度以下,如纸张130°C,松木 250°C。吸烟的时候,氧气得到补充,烟头的温度稍高一些,在800 度左右,停吸的时 候氧气不足,温度稍低,在700 度左右。故本题答案选C。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 73
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-74",
+    "number": 74,
+    "type": "single_choice",
+    "stem": "向着火密闭空间充入CO2 气体进行灭火的方法是( )。",
+    "options": {
+      "A": "冷却法",
+      "B": "隔离法",
+      "C": "抑制法",
+      "D": "窒息法"
+    },
+    "answer": "D",
+    "explanation": "74.【答案】D。解析:解析:可燃物的燃烧是氧化作用,需要在最低氧浓度以上才 能进行,低于最低氧浓度,燃烧不能进行,火灾即被扑灭。一般氧浓度低于15%时, 就不能维持燃烧。在着火场所内,可以通过灌注不燃气体,如二氧化碳、氮气、蒸汽等, 来降低空间的氧浓度,从而达到窒息灭火。此外,水喷雾灭火系统工作时,喷出的水滴 吸收热气流热量而转化成蒸汽,当空气中水蒸气浓度达到35%时,燃烧即停止,这也 是窒息灭火的应用。故本题中在着火密闭空间充入CO2 气体进行灭火的方法是窒息法。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-75",
+    "number": 75,
+    "type": "single_choice",
+    "stem": "有些固体可燃物的蒸汽非常小或者难以发生热分解,不能发生蒸发燃烧或者分 解燃烧,当氧气包围物质的表层时,呈炽热状态发生无火焰燃烧,称为( )。",
+    "options": {
+      "A": "内部燃烧",
+      "B": "表面燃烧",
+      "C": "放射燃烧",
+      "D": "阴燃"
+    },
+    "answer": "B",
+    "explanation": "75.【答案】B。解析:有些固体可燃物的蒸汽非常小或者难以发生热分解,不能发 生蒸发燃烧或者分解燃烧,当氧气包围物质的表层时,呈炽热状态发生无火焰燃烧,称 为表面燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 75
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-76",
+    "number": 76,
+    "type": "single_choice",
+    "stem": "《中华人民共和国消防法》规定:消防工作贯彻( )的方针,坚持专门机关 与群众相结合的原则,实行防火安全责任制。",
+    "options": {
+      "A": "谁主管、谁负责",
+      "B": "以防为主,以消为辅",
+      "C": "预防为主,防消结合",
+      "D": "预防为主,消防结合"
+    },
+    "answer": "C",
+    "explanation": "76.【答案】C。解析:解析:《消防法》在总则第2 条中规定:“消防工作贯彻预 防为主、防消结合的方针,按照政府统一领导、部门依法监管、单位全面负责、公民积 极参与的原则,实行消防安全责任制,建立健全社会化的消防工作网络”,确立了消防 工作的方针、原则和责任制。故本题答案选C。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-77",
+    "number": 77,
+    "type": "single_choice",
+    "stem": "举办大型群众性活动,( )应当依法向公安机关申请安全许可。",
+    "options": {
+      "A": "主办人",
+      "B": "消防安全责任人",
+      "C": "承办人",
+      "D": "消防安全管理人"
+    },
+    "answer": "C",
+    "explanation": "77.【答案】C。解析:解析:根据《消防法》第20 条的规定,举办大型群众性活 动,承办人应当依法向公安机关申请安全许可。故本题答案选C。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 77
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-78",
+    "number": 78,
+    "type": "single_choice",
+    "stem": "法人单位的( )对本单位的消防安全工作全面负责。",
+    "options": {
+      "A": "法定代表人",
+      "B": "消防安全管理人",
+      "C": "消防安全保卫干部",
+      "D": "法人"
+    },
+    "answer": "A",
+    "explanation": "78.【答案】A。解析:解析:根据《中华人民共和国消防法》第16 条第2 款规定 可知:单位的主要负责人是本单位的消防安全责任人。消防安全责任人是对单位的消防 安全工作全面负责的人。一般法人单位的法定代表人或非法人单位的主要负责人是单位 的消防安全责任人。政府主要负责人为辖区消防安全责任人。故本题答案选A。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-79",
+    "number": 79,
+    "type": "single_choice",
+    "stem": "任何人发现火灾时,都应报警。任何单位、个人应当( )为报警提供便利, 不得阻拦报警。",
+    "options": {
+      "A": "无偿",
+      "B": "有偿",
+      "C": "自愿",
+      "D": "自觉"
+    },
+    "answer": "A",
+    "explanation": "79.【答案】A。解析:任何人发现火灾时,都应报警。任何单位、个人应当无偿为 报警提供便利,不得阻拦报警。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 79
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-80",
+    "number": 80,
+    "type": "single_choice",
+    "stem": "储存可燃物资仓库的管理,必须执行国家有关( )的规定。",
+    "options": {
+      "A": "消防安全",
+      "B": "物资安全",
+      "C": "劳动安全",
+      "D": "储存安全"
+    },
+    "answer": "A",
+    "explanation": "80.【答案】A。解析:储存可燃物资仓库的管理,必须执行国家有关消防安全的规 定。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-81",
+    "number": 81,
+    "type": "multiple_choice",
+    "stem": "燃烧是一种氧化还原反应,一般伴有( )等基本特征表明它不同于一般的氧 化还原反应。",
+    "options": {
+      "A": "放热",
+      "B": "发光",
+      "C": "发烟",
+      "D": "火焰"
+    },
+    "answer": "ABCD",
+    "explanation": "1.【答案】ABCD。解析:燃烧是一种氧化还原反应,一般伴有放热、发光、发烟、. 火焰等基本特征表明它不同于一般的氧化还原反应。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 1
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-82",
+    "number": 82,
+    "type": "multiple_choice",
+    "stem": "按爆炸过程的性质,通常将爆炸分为( )。",
+    "options": {
+      "A": "物理爆炸",
+      "B": "化学爆炸",
+      "C": "核爆炸",
+      "D": "粉尘爆炸"
+    },
+    "answer": "ABC",
+    "explanation": "2.【答案】ABC。解析:按爆炸过程的性质,通常将爆炸分为物理爆炸、化学爆炸 、核爆炸。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-83",
+    "number": 83,
+    "type": "multiple_choice",
+    "stem": "轻质油品(如汽油、柴油)油罐发生火灾后不会发生( )。",
+    "options": {
+      "A": "沸溢",
+      "B": "喷溅",
+      "C": "热辐射强",
+      "D": "燃烧猛烈"
+    },
+    "answer": "AB",
+    "explanation": "3.【答案】AB。解析:轻质油品(如汽油、柴油)油罐发生火灾后不会发生沸溢、 喷溅。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 3
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-84",
+    "number": 84,
+    "type": "multiple_choice",
+    "stem": "燃烧产物主要以气态形式存在,其成分主要取决于( )。",
+    "options": {
+      "A": "热传导强度",
+      "B": "可燃物的组成",
+      "C": "燃烧条件",
+      "D": "热辐射强度"
+    },
+    "answer": "BC",
+    "explanation": "4.【答案】BC。解析:燃烧产物主要以气态形式存在,其成分主要取决于可燃物 的组成和燃烧的条件。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-85",
+    "number": 85,
+    "type": "multiple_choice",
+    "stem": "火灾对人体的危害主要表现为( ),其中任何一种危害都能置人于死地。",
+    "options": {
+      "A": "缺氧",
+      "B": "高温",
+      "C": "烟尘",
+      "D": "毒性气体"
+    },
+    "answer": "ABCD",
+    "explanation": "5.【答案】ABCD。解析:火灾对人体的危害主要表现为缺氧、高温、烟尘、毒性 气体,其中任何一种危害都能置人于死地。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 5
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-86",
+    "number": 86,
+    "type": "multiple_choice",
+    "stem": "下列属于“",
+    "options": {
+      "A": "钾",
+      "B": "钠",
+      "C": "镁",
+      "D": "类火灾”的是( ): 沥青"
+    },
+    "answer": "ABC",
+    "explanation": "6.【答案】ABC。解析:钾、钠、镁属于“D 类火灾”。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-87",
+    "number": 87,
+    "type": "multiple_choice",
+    "stem": "根据燃烧条件和同火灾作斗争的实践经验,灭火的方法有( )。",
+    "options": {
+      "A": "隔离法",
+      "B": "窒息法",
+      "C": "冷却法",
+      "D": "抑制法"
+    },
+    "answer": "ABCD",
+    "explanation": "7.【答案】ABCD。解析:灭火的方法有隔离法、窒息法、冷却法、抑制法。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 7
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-88",
+    "number": 88,
+    "type": "multiple_choice",
+    "stem": "危险化学品是指( )感染、放射性等危险性质,在运输、储存、生产、经营、 使用和处置中,容易造成人身伤亡、财产损毁或环境污染而需要特别防护的物品。",
+    "options": {
+      "A": "有爆炸",
+      "B": "易燃",
+      "C": "毒害",
+      "D": "腐蚀"
+    },
+    "answer": "ABCD",
+    "explanation": "8.【答案】ABCD。解析:危险化学品是指有爆炸、易燃、毒害、腐蚀、感染、放 射性等危险性质,在运输、储存、生产、经营、使用和处置中,容易造成人身伤亡、财 产损毁或环境污染而需要特别防护的物品。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-89",
+    "number": 89,
+    "type": "multiple_choice",
+    "stem": "非易燃无毒气体是( )。",
+    "options": {
+      "A": "氮",
+      "B": "二氧化碳",
+      "C": "氖",
+      "D": "二氧化碳"
+    },
+    "answer": "ABCD",
+    "explanation": "9.【答案】ABCD。解析:以上都属于非易燃无毒气体。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 9
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-90",
+    "number": 90,
+    "type": "multiple_choice",
+    "stem": "下列哪些是有毒气体( )。",
+    "options": {
+      "A": "氯气",
+      "B": "光气",
+      "C": "溴甲烷",
+      "D": "氰化氢"
+    },
+    "answer": "ABCD",
+    "explanation": "10.【答案】ABCD。解析:以上都属于有毒气体。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-91",
+    "number": 91,
+    "type": "multiple_choice",
+    "stem": "影响液体与气体可燃物燃点的因素是( )。",
+    "options": {
+      "A": "压力",
+      "B": "浓度",
+      "C": "含氧量",
+      "D": "催化剂"
+    },
+    "answer": "ABCD",
+    "explanation": "11.【答案】ABCD。解析:影响液体与气体可燃物燃点的因素包括:压力、浓度、 含氧量、催化剂、容器的材质和内径。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 11
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-92",
+    "number": 92,
+    "type": "multiple_choice",
+    "stem": "任何物质发生燃烧或者持续燃烧,除了必须具备可燃物、氧化剂和温度(引火 源)条件外,还应具备燃烧的( )充分条件。",
+    "options": {
+      "A": "一定的可燃物浓度",
+      "B": "一定的氧气含量",
+      "C": "一定的点火能量",
+      "D": "爆炸"
+    },
+    "answer": "ABC",
+    "explanation": "12.【答案】ABC。解析:燃烧的充分条件包括:(一)一定的可燃物浓度。(二) 一定的氧气(氧化剂)含量,实验证明,虽有空气(氧气)存在,但浓度不够,燃烧也 不会发生。由于可燃物质性质不同,燃烧所需要的含氧量也不同;在等量情况下,使某 些物质完全燃烧,所需要的含氧量也有差异。(三)一定的引火能量(点火能),不管 何种形式的点火能量,都必须达到一定的强度才能引起可燃物质着火。否则,燃烧就不 会发生不同可燃物质燃烧所需的引火能(点火能)各不相同。(四)相互作用,燃烧不 仅必须具备必要条件(三要素)和充分条件,而且还必须使以上条件相互结合、相互作 用,燃烧才会发生和持续,否则,燃烧也不能发生。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-93",
+    "number": 93,
+    "type": "multiple_choice",
+    "stem": "液体能否发生燃烧、燃烧速率的高低与液体的( )等性质有关。",
+    "options": {
+      "A": "蒸气压",
+      "B": "闪点",
+      "C": "沸点",
+      "D": "蒸发速率"
+    },
+    "answer": "ABCD",
+    "explanation": "13.【答案】ABCD。解析:本题考查的是液体燃烧的条件。液体能否发生燃烧、燃 烧速率高低,与液体的蒸气压、闪点、沸点和蒸发速率等性质密切相关。故本题答案为 ABCD。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 13
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-94",
+    "number": 94,
+    "type": "multiple_choice",
+    "stem": "固体物质的燃烧方式有( )。",
+    "options": {
+      "A": "蒸发燃烧",
+      "B": "分解燃烧",
+      "C": "表面燃烧",
+      "D": "阴燃"
+    },
+    "answer": "ABCD",
+    "explanation": "14.【答案】ABCD。解析:(1)蒸发燃烧 硫、磷、钾、钠、蜡烛、松香、沥青等可燃固体,在受到火源加热时,先熔融蒸发, 随后蒸气与氧气发生燃烧反应,这种形式的燃烧一般称为蒸发燃烧。樟脑、萘等易升华 物质,在燃烧时不经过熔融过程,但其燃烧现象也可看作是一种蒸发燃烧。 (2)表面燃烧 可燃固体(如木炭、焦炭、铁、铜等)的燃烧反应是在其表面由氧和物质直接作用 而发生的,称为表面燃烧。这是一种无火焰的燃烧,有时又称之为异相燃烧。 (3)分解燃烧 可燃固体,如木材、煤、合成塑料、钙塑材料等,在受到火源加热时,先发生热分 解,随后分解出的可燃挥发分与氧发生燃烧反应,这种形式的燃烧一般称为分解燃烧。 (4)熏烟燃烧(阴燃) 可燃固体在空气不流通、加热温度较低、分解出的可燃挥发分较少或逸散较快、含 水分较多等条件下,往往发生只冒烟而无火焰的燃烧现象,这就是熏烟燃烧,又称阴燃。 阴燃是固体材料特有的燃烧形式,但其能否发生,主要取决于固体材料自身的理化性质 及其所处的外部环境。很多固体材料,如纸张、锯末、纤维织物、胶乳橡胶等,都能发 生阴燃。这是因为这些材料受热分解后能产生刚性结构的多孔炭,从而具备多孔蓄热并 使燃烧持续下去的条件。此外,阴燃的发生需要有一个供热强度适宜的热源,通常有自 燃热源、阴燃本身的热源和有焰燃烧火焰熄灭后的阴燃等。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 14
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-95",
+    "number": 95,
+    "type": "multiple_choice",
+    "stem": "引起受热自燃的原因有( )。",
+    "options": {
+      "A": "接触灼热物体",
+      "B": "直接用火加热",
+      "C": "摩擦生热",
+      "D": "化学反应"
+    },
+    "answer": "ABCD",
+    "explanation": "15.【答案】ABCD。解析:物体受热自燃的原因有:接触灼热物体;直接用火加热; 摩擦生热;化学反应;高压压缩;热辐射作用。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 15
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-96",
+    "number": 96,
+    "type": "multiple_choice",
+    "stem": "下列燃烧属于扩散燃烧的是( )。",
+    "options": {
+      "A": "管路、容器泄漏口发生的燃烧",
+      "B": "天然气进口发生的井喷燃烧",
+      "C": "可燃气体爆炸",
+      "D": "易燃液体蒸汽爆炸"
+    },
+    "answer": "AB",
+    "explanation": "16.【答案】AB。解析:扩散混合阶段的燃烧称为扩散燃烧。扩散燃烧是指可燃气 体喷口(管口或容器泄露口)喷出,在喷口处与空气中的氧边扩散混合,边燃烧的现象, 如天然气井口发生的井喷燃烧。扩散混合的速度和进程控制着扩散燃烧的速度和进程, 为此,加速和完善扩散混合是改善扩散燃烧的关键,是加速燃烧过程中、后期燃烧进程 的关键所在,从而也是提高空气利用率、热量利用率和热效率的有效手段。故本题选 AB,CD 为预混燃烧。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 16
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-97",
+    "number": 97,
+    "type": "multiple_choice",
+    "stem": "燃烧产物能够( )。",
+    "options": {
+      "A": "引起人员中毒、窒息",
+      "B": "会使人员受伤",
+      "C": "影响视线",
+      "D": "成为火势发展蔓延的因素"
+    },
+    "answer": "ABCD",
+    "explanation": "17.【答案】ABCD。解析:燃烧产物与灭火工作有密切的关系。它对灭火工作既有 有利的方面,也有不利的方面。 燃烧产物有利方面:(1)一定条件下有阻燃作用。完全燃烧产生的惰性气体在一 定条件下有阻燃作用。(2)为火情侦察提供依据。不同的物质燃烧,不同的燃烧温度, 在不同的风向条件下,烟的气味、颜色、浓度、流动方向也是不一样的。通过烟的这些 特征,消防人员可以大致判断燃烧物质的种类、火灾发展阶段、火势蔓延方向等。 燃烧产物不利方面:(1)引起人员中毒、窒息。燃烧产物中有不少为毒性气体, 对人体有麻醉、窒息、刺激的功能作用,这些气体妨碍人们的正常呼吸、逃生,也给消 防人员的灭火工作带来困难。(2)会使人员受伤。燃烧产物的烟气中载有大量的热, 人在这种高温、湿热环境中极易被烫伤。(3)影响视线。燃烧产生大量烟雾,影响人 的视线,使能见度大大降低,人在浓烟中往往会辨不清方向,给灭火、人员疏散工作带 来困难。(4)成为火势发展、蔓延的因素。燃烧产物有很高的热能,极易造成轰燃或 因对流或热辐射引起新的火点。 故本题选ABCDE。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 17
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-98",
+    "number": 98,
+    "type": "multiple_choice",
+    "stem": "按燃烧对象分类,火灾可分为( )。",
+    "options": {
+      "A": "类火灾",
+      "B": "类火灾",
+      "C": "类火灾",
+      "D": "类火灾"
+    },
+    "answer": "ABCD",
+    "explanation": "18.【答案】ABCD。解析:按照国家标准《火灾分类》(GB/T4968——2008)的 规定,火灾分为A.B.C.D.E、F 六类。 A 类火灾:固体物质火灾。这种物质通常具有有机物性质,一般在燃烧时能产生灼 热的余烬。例如,木材、棉、毛、麻、纸张等火灾。 B 类火灾:液体或可熔化固体物质火灾。例如,汽油、煤油、原油、甲醇、乙醇、 沥青、石蜡等火灾。 C 类火灾:气体火灾。例如,煤气、天然气、甲烷、乙烷、氢气、乙炔等火灾。 D 类火灾:金属火灾。例如,钾、钠、镁、钛、锆、锂等火灾。 E 类火灾:带电火灾。物体带电燃烧的火灾。例如,变压器等设备的电气火灾等。 F 类火灾:烹饪器具内的烹饪物(如动物油脂或植物油脂)火灾。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-99",
+    "number": 99,
+    "type": "multiple_choice",
+    "stem": "造成电气火灾的原因有可能是( )。",
+    "options": {
+      "A": "短路",
+      "B": "过负荷",
+      "C": "电热器具使用不当",
+      "D": "漏电"
+    },
+    "answer": "ABCD",
+    "explanation": "19.【答案】ABCD。解析:电气火灾一般是指由于电气线路、用电设备、器具以及 供配电设备出现故障性释放的热能,如高温、电弧、电火花以及非故障性释放的能量, 如电热器具的炽热表面,在具备燃烧条件下引燃本体或其他可燃物而造成的火灾,也包 括由雷电和静电引起的火灾。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 19
+  },
+  {
+    "paperId": "消防100题",
+    "questionId": "normal-消防100题-100",
+    "number": 100,
+    "type": "multiple_choice",
+    "stem": "下列各项中属于易燃液体危险特性的是( )。",
+    "options": {
+      "A": "高度的易燃性",
+      "B": "蒸气的爆炸性",
+      "C": "受热膨胀性",
+      "D": "流动性"
+    },
+    "answer": "ABCD",
+    "explanation": "20.【答案】ABCD。解析:易燃液体的危险特性有以下几种:(1)易燃性。液体 的燃烧是通过其挥发出的蒸气与空气形成的可燃性混合物,在一定的比例范围内遇明火 点燃而实现的,因而实质上是液体蒸气的氧化还原反应。易燃液体燃烧的难易程度,即 火灾危险的大小,主要取决于它们分子结构和分子量的大小。(2)爆炸性。由于任何 液体在任意温度下都能蒸发。所以,易燃液体也具有这种性质,当挥发出的易燃蒸气与 空气混合,达到爆炸浓度范围时,遇明火就发生爆炸。易燃液体的挥发性越强,这种爆 炸危险就越大。(3)受热膨胀性。储存于密闭容器中的易燃液体受热后,本身体积膨 胀的同时蒸气压为增加,若超过了容器所能承受的压力限度,就会造成容器膨胀,以至 爆裂。夏季盛装易燃液体的桶,常出现鼓桶现象及玻璃容器爆裂现象,就是由于受热膨 胀所致。(4)流动性。流动性是液体的通性,易燃液体的流动性增加了火灾危险性。 例如,易燃液体渗漏会很快向四周扩散,能扩大其表面积,加快挥发速度,提高空气中 的蒸气浓度,易于起火蔓延。再如,火场中储罐(容器)一旦爆裂,液体会四处流散, 造成火势蔓延,扩大着火面积,给施救工作带来一定困难。(5)带电性。多数易燃液 体在灌注、输送、喷流过程中能够产生静电,当静电荷聚集到一定程度,则放电发火, 有引起着火或爆炸的危险。(6)侵害性。易燃液体大都本身或其蒸气具有毒害性,有 的还有刺激性和腐蚀性。易燃液体蒸发气体,通体的呼吸道、消化道、皮肤三个途径进 入人体,造成人身中毒。中毒的程度与蒸气浓度、作用时长短有关。浓度低、时间短则 中毒程度轻,反之则重。故本题答案为ABCDE。",
+    "tags": [
+      "normal",
+      "消防100题"
+    ],
+    "sourcePage": 20
+  }
+]

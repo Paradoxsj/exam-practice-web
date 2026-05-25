@@ -1,0 +1,80 @@
+[
+  {
+    "paperId": "2021年",
+    "title": "2021年",
+    "questionCount": 100,
+    "types": {
+      "single_choice": 60,
+      "multiple_choice": 20,
+      "judge": 20
+    }
+  },
+  {
+    "paperId": "2022年",
+    "title": "2022年",
+    "questionCount": 70,
+    "types": {
+      "single_choice": 40,
+      "multiple_choice": 10,
+      "judge": 20
+    }
+  },
+  {
+    "paperId": "2023年",
+    "title": "2023年",
+    "questionCount": 50,
+    "types": {
+      "single_choice": 30,
+      "multiple_choice": 10,
+      "judge": 10
+    }
+  },
+  {
+    "paperId": "消防100题",
+    "title": "消防100题",
+    "questionCount": 100,
+    "types": {
+      "single_choice": 80,
+      "multiple_choice": 20
+    }
+  },
+  {
+    "paperId": "计算机题本100题",
+    "title": "计算机题本100题",
+    "questionCount": 100,
+    "types": {
+      "single_choice": 90,
+      "judge": 10
+    }
+  },
+  {
+    "paperId": "公基法律习题集200题",
+    "title": "公基法律习题集200题",
+    "questionCount": 200,
+    "types": {
+      "single_choice": 120,
+      "multiple_choice": 40,
+      "judge": 40
+    }
+  },
+  {
+    "paperId": "公基非法部分习题集200题",
+    "title": "公基非法部分习题集200题",
+    "questionCount": 200,
+    "types": {
+      "single_choice": 120,
+      "multiple_choice": 40,
+      "judge": 40
+    }
+  },
+  {
+    "paperId": "公安基础知识习题集200题",
+    "title": "公安基础知识习题集200题",
+    "questionCount": 200,
+    "types": {
+      "single_choice": 120,
+      "multiple_choice": 40,
+      "judge": 40
+    }
+  }
+]
