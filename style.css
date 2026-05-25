@@ -102,9 +102,15 @@ h1 {
 }
 
 .mobile-question-tools,
+.mobile-tools-header,
+.tools-panel-backdrop,
 .nav-close-button,
 .number-nav-backdrop {
   display: none;
+}
+
+.mobile-tools-panel {
+  display: contents;
 }
 
 .paper-list {
@@ -646,6 +652,7 @@ h1 {
 @media (max-width: 768px) {
   body {
     overflow-x: hidden;
+    padding-bottom: calc(76px + env(safe-area-inset-bottom));
   }
 
   .app-shell {
@@ -653,6 +660,9 @@ h1 {
   }
 
   .paper-panel {
+    position: sticky;
+    top: 0;
+    z-index: 30;
     padding: 10px 12px;
   }
 
@@ -662,6 +672,7 @@ h1 {
   }
 
   .brand-row {
+    flex-direction: row-reverse;
     align-items: center;
     margin-bottom: 8px;
   }
@@ -671,16 +682,62 @@ h1 {
   }
 
   .toolbar {
+    grid-template-columns: 1fr;
     gap: 8px;
     margin-bottom: 8px;
   }
 
+  .mobile-tools-panel {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 42;
+    display: block;
+    max-height: 64vh;
+    overflow-y: auto;
+    padding: 14px;
+    border: 1px solid var(--line);
+    border-width: 1px 0 0;
+    border-radius: 14px 14px 0 0;
+    background: var(--panel);
+    box-shadow: var(--shadow);
+    transform: translateY(105%);
+    transition: transform 180ms ease;
+  }
+
+  body.tools-panel-open .mobile-tools-panel {
+    transform: translateY(0);
+  }
+
+  .mobile-tools-header {
+    position: sticky;
+    top: -14px;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: -14px -14px 12px;
+    padding: 12px 14px;
+    border-bottom: 1px solid var(--line);
+    background: var(--panel);
+    font-weight: 700;
+  }
+
+  .tools-panel-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 36;
+    background: rgba(15, 23, 42, 0.34);
+  }
+
+  body.tools-panel-open .tools-panel-backdrop {
+    display: block;
+  }
+
   .mode-controls,
   .filter-tabs {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    padding-bottom: 2px;
-    -webkit-overflow-scrolling: touch;
+    flex-wrap: wrap;
   }
 
   .mode-controls span {
@@ -698,7 +755,7 @@ h1 {
   .stats-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 6px;
-    margin-bottom: 8px;
+    margin: 10px 0 0;
   }
 
   .stat-cell {
@@ -715,32 +772,47 @@ h1 {
 
   .question-panel {
     min-height: 0;
-    padding: 14px;
+    padding: 12px;
   }
 
   .mobile-question-tools {
     display: flex;
-    justify-content: flex-end;
-    margin-bottom: 10px;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 8px;
   }
 
   .mobile-question-tools button {
+    flex: 1;
     min-height: 40px;
   }
 
   .question-topline {
     align-items: flex-start;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
   }
 
   .save-hint {
-    font-size: 12px;
+    display: none;
   }
 
   .question-stem {
-    margin-bottom: 14px;
+    margin-bottom: 10px;
     font-size: 18px;
-    line-height: 1.58;
+    line-height: 1.52;
+  }
+
+  .options-area {
+    max-height: 42vh;
+    overflow-y: auto;
+    padding-right: 2px;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .answer-area {
+    max-height: 30vh;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
   }
 
   .option-row {
@@ -761,7 +833,7 @@ h1 {
     top: auto;
     z-index: 40;
     display: block;
-    max-height: 60vh;
+    max-height: 62vh;
     overflow-y: auto;
     padding: 14px;
     border-radius: 14px 14px 0 0;
@@ -808,6 +880,33 @@ h1 {
   .number-grid button {
     min-height: 32px;
     font-size: 12px;
+  }
+
+  .action-row {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 30;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 8px;
+    align-items: stretch;
+    margin: 0;
+    padding: 10px 10px calc(10px + env(safe-area-inset-bottom));
+    border-top: 1px solid var(--line);
+    background: rgba(255, 255, 255, 0.96);
+    box-shadow: 0 -8px 24px rgba(19, 31, 27, 0.08);
+  }
+
+  .action-row button {
+    width: 100%;
+    min-height: 46px;
+    padding: 0 8px;
+  }
+
+  .action-row .hidden {
+    display: none !important;
   }
 }
 

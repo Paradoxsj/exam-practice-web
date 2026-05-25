@@ -24,6 +24,9 @@
     filterTabs: document.getElementById("filterTabs"),
     statsGrid: document.getElementById("statsGrid"),
     numberNav: document.getElementById("numberNav"),
+    openToolsPanelBtn: document.getElementById("openToolsPanelBtn"),
+    closeToolsPanelBtn: document.getElementById("closeToolsPanelBtn"),
+    toolsPanelBackdrop: document.getElementById("toolsPanelBackdrop"),
     openNumberNavBtn: document.getElementById("openNumberNavBtn"),
     closeNumberNavBtn: document.getElementById("closeNumberNavBtn"),
     numberNavBackdrop: document.getElementById("numberNavBackdrop"),
@@ -97,6 +100,9 @@
     els.submitBtn.addEventListener("click", submitCurrentAnswer);
     els.examSubmitBtn.addEventListener("click", submitExam);
     els.clearWrongBtn.addEventListener("click", clearCurrentPaperWrongBook);
+    els.openToolsPanelBtn.addEventListener("click", openToolsPanel);
+    els.closeToolsPanelBtn.addEventListener("click", closeToolsPanel);
+    els.toolsPanelBackdrop.addEventListener("click", closeToolsPanel);
     els.openNumberNavBtn.addEventListener("click", openNumberDrawer);
     els.closeNumberNavBtn.addEventListener("click", closeNumberDrawer);
     els.numberNavBackdrop.addEventListener("click", closeNumberDrawer);
@@ -146,6 +152,7 @@
     if (!paper) return;
 
     app.currentPaper = paper;
+    closePaperListOnMobile();
     app.showExplanation = false;
     app.currentIndex = 0;
     app.session.currentPaperId = paperId;
@@ -1172,11 +1179,27 @@
   }
 
   function openNumberDrawer() {
+    closeToolsPanel();
     document.body.classList.add("number-nav-open");
   }
 
   function closeNumberDrawer() {
     document.body.classList.remove("number-nav-open");
+  }
+
+  function openToolsPanel() {
+    closeNumberDrawer();
+    document.body.classList.add("tools-panel-open");
+  }
+
+  function closeToolsPanel() {
+    document.body.classList.remove("tools-panel-open");
+  }
+
+  function closePaperListOnMobile() {
+    if (window.matchMedia("(max-width: 768px)").matches) {
+      els.paperList.classList.add("collapsed");
+    }
   }
 
   function normalizedOptions(question, type) {
