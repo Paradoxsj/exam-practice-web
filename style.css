@@ -638,14 +638,13 @@ h1 {
     font-size: 17px;
   }
 
-  .question-topline,
-  .action-row {
+  .question-topline {
     align-items: stretch;
     flex-direction: column;
   }
 
   .action-row button {
-    width: 100%;
+    width: auto;
   }
 }
 
@@ -663,22 +662,54 @@ h1 {
     position: sticky;
     top: 0;
     z-index: 30;
-    padding: 10px 12px;
+    padding: 6px 8px;
+    background: transparent;
+    border-bottom: 0;
   }
 
   .practice-panel {
     width: 100%;
-    padding: 10px;
+    padding: 0 8px 8px;
   }
 
   .brand-row {
     flex-direction: row-reverse;
     align-items: center;
-    margin-bottom: 8px;
+    justify-content: flex-end;
+    margin-bottom: 0;
+    pointer-events: none;
+  }
+
+  .brand-row > div {
+    display: none;
   }
 
   h1 {
     font-size: 18px;
+  }
+
+  .mobile-toggle {
+    width: 32px;
+    min-height: 32px;
+    padding: 0;
+    border-radius: 999px;
+    pointer-events: auto;
+    box-shadow: var(--shadow);
+  }
+
+  .paper-list {
+    margin-top: 6px;
+    max-height: 42vh;
+    overflow-y: auto;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 8px;
+    background: var(--panel);
+    box-shadow: var(--shadow);
+  }
+
+  .paper-item {
+    padding: 9px 10px;
   }
 
   .toolbar {
@@ -772,24 +803,28 @@ h1 {
 
   .question-panel {
     min-height: 0;
-    padding: 12px;
+    padding: 8px 10px 10px;
+    border-radius: 8px;
   }
 
   .mobile-question-tools {
     display: flex;
     justify-content: space-between;
     gap: 8px;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
   }
 
   .mobile-question-tools button {
     flex: 1;
-    min-height: 40px;
+    min-height: 34px;
+    padding: 0 8px;
+    font-size: 13px;
   }
 
   .question-topline {
     align-items: flex-start;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
+    font-size: 13px;
   }
 
   .save-hint {
@@ -797,13 +832,21 @@ h1 {
   }
 
   .question-stem {
-    margin-bottom: 10px;
+    max-height: 47vh;
+    margin-bottom: 8px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 10px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: #fff;
     font-size: 18px;
     line-height: 1.52;
   }
 
   .options-area {
-    max-height: 42vh;
+    max-height: calc(100vh - 47vh - 184px - env(safe-area-inset-bottom));
+    min-height: 116px;
     overflow-y: auto;
     padding-right: 2px;
     -webkit-overflow-scrolling: touch;
