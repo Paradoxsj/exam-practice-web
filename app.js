@@ -24,7 +24,11 @@
     filterTabs: document.getElementById("filterTabs"),
     statsGrid: document.getElementById("statsGrid"),
     numberNav: document.getElementById("numberNav"),
+    openNumberNavBtn: document.getElementById("openNumberNavBtn"),
+    closeNumberNavBtn: document.getElementById("closeNumberNavBtn"),
+    numberNavBackdrop: document.getElementById("numberNavBackdrop"),
     clearWrongBtn: document.getElementById("clearWrongBtn"),
+    currentPaperTitle: document.getElementById("currentPaperTitle"),
     questionProgress: document.getElementById("questionProgress"),
     questionType: document.getElementById("questionType"),
     saveHint: document.getElementById("saveHint"),
@@ -93,6 +97,9 @@
     els.submitBtn.addEventListener("click", submitCurrentAnswer);
     els.examSubmitBtn.addEventListener("click", submitExam);
     els.clearWrongBtn.addEventListener("click", clearCurrentPaperWrongBook);
+    els.openNumberNavBtn.addEventListener("click", openNumberDrawer);
+    els.closeNumberNavBtn.addEventListener("click", closeNumberDrawer);
+    els.numberNavBackdrop.addEventListener("click", closeNumberDrawer);
   }
 
   async function loadPapers() {
@@ -304,6 +311,7 @@
         app.currentIndex = index;
         app.showExplanation = false;
         rememberProgress();
+        closeNumberDrawer();
         renderAll();
       });
       els.numberNav.appendChild(button);
@@ -326,6 +334,7 @@
     const qid = getQuestionId(question);
     const record = app.records[qid];
     const originalNumber = question.number ?? app.currentIndex + 1;
+    els.currentPaperTitle.textContent = app.currentPaper?.title || app.currentPaper?.paperId || "请选择试卷";
     els.questionProgress.textContent = `第 ${app.currentIndex + 1} / ${app.filtered.length} 题 · 原题号 ${originalNumber}`;
     els.questionType.textContent = typeLabel(type);
     els.questionStem.textContent = question.stem || "（题干为空）";
@@ -1141,6 +1150,7 @@
   }
 
   function renderEmpty(message) {
+    els.currentPaperTitle.textContent = app.currentPaper ? app.currentPaper.title : "请选择试卷";
     els.questionProgress.textContent = app.currentPaper ? app.currentPaper.title : "请选择试卷";
     els.questionType.textContent = "";
     els.questionStem.textContent = message;
@@ -1156,8 +1166,17 @@
     const index = app.filtered.findIndex((question) => getQuestionId(question) === qid);
     if (index < 0) return;
     app.currentIndex = index;
+    closeNumberDrawer();
     rememberProgress();
     renderAll();
+  }
+
+  function openNumberDrawer() {
+    document.body.classList.add("number-nav-open");
+  }
+
+  function closeNumberDrawer() {
+    document.body.classList.remove("number-nav-open");
   }
 
   function normalizedOptions(question, type) {

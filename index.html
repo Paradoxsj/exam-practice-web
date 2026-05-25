@@ -16,7 +16,7 @@
           </div>
           <button class="icon-button mobile-toggle" id="togglePapers" type="button" aria-label="展开试卷列表">☰</button>
         </div>
-        <div class="paper-list" id="paperList"></div>
+        <div class="paper-list collapsed" id="paperList"></div>
       </aside>
 
       <main class="practice-panel">
@@ -49,14 +49,19 @@
           <nav class="number-nav" aria-label="题号导航">
             <div class="number-nav-header">
               <span>题号</span>
+              <button id="closeNumberNavBtn" class="nav-close-button" type="button" aria-label="关闭题号导航">关闭</button>
               <button id="clearWrongBtn" type="button">清空错题本</button>
             </div>
             <div id="numberNav" class="number-grid"></div>
           </nav>
 
           <article class="question-panel">
+            <div class="mobile-question-tools">
+              <button id="openNumberNavBtn" type="button" class="primary">题号导航</button>
+            </div>
             <div class="question-topline">
               <div>
+                <span id="currentPaperTitle" class="current-paper-title">请选择试卷</span>
                 <span id="questionProgress">请选择试卷</span>
                 <span id="questionType" class="type-pill"></span>
               </div>
@@ -77,6 +82,7 @@
         </section>
       </main>
     </div>
+    <div id="numberNavBackdrop" class="number-nav-backdrop"></div>
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
     <script src="./app.js"></script>
